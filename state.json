@@ -38,21 +38,21 @@
       "spots": 3
     },
     {
+      "id": "0a5e65daf92912aca51b5487",
+      "title": "Drop In Thursday Thursday - Basketball - Cambridge Shady Hill School 10/1 · 9PM - 9:50PM $16/player Coed All Skills 5v5 3 spots",
+      "day": "Thursday",
+      "time": "9:00pm",
+      "location": "Cambridge Shady Hill School",
+      "url": "https://www.volosports.com/game/7d26c8ed-21e8-44de-91b2-d8c0ef3735a8",
+      "spots": 3
+    },
+    {
       "id": "fa5ccb565dc11ab7e1e10548",
       "title": "Drop In Tuesday Tuesday - Volleyball - Somerville Club Volo at Assembly Row 10/6 · 6:55PM - 7:50PM $16/player Coed All Skills 4v4 1 spot",
       "day": "Tuesday",
       "time": "6:55pm",
       "location": "Somerville Club Volo at Assembly Row",
       "url": "https://www.volosports.com/game/0a847c79-42ab-4c13-86af-ac5a453ab870",
-      "spots": 1
-    },
-    {
-      "id": "5522cae977463021a554d616",
-      "title": "Drop In Today Tuesday - Basketball - Cambridge Shady Hill School Today 9/29 · 9PM - 9:50PM $16/player Men All Skills 5v5 1 spot",
-      "day": "Tuesday",
-      "time": "9:00pm",
-      "location": "Cambridge Shady Hill School",
-      "url": "https://www.volosports.com/game/e076f3cf-a84f-4066-8d7d-85ac871c6541",
       "spots": 1
     },
     {
@@ -63,6 +63,15 @@
       "location": "South Boston Moakley Park",
       "url": "https://www.volosports.com/game/247b3c23-7432-4062-b47d-ac6da1a9b743",
       "spots": 3
+    },
+    {
+      "id": "08528c1991a18083968858aa",
+      "title": "Drop In Tomorrow Wednesday - Soccer - Somerville Dilboy Stadium Tomorrow 9/30 · 9PM - 10PM $16/player Coed Skills (2) 7v7 1 spot",
+      "day": "Wednesday",
+      "time": "9:00pm",
+      "location": "Somerville Dilboy Stadium",
+      "url": "https://www.volosports.com/game/831400e3-e37a-4f7b-831b-9c734e653315",
+      "spots": 1
     },
     {
       "id": "1c64b6a93c72a748672aec22",

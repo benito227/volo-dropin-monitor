@@ -447,9 +447,9 @@ async function main() {
       await sendNotification({
         title: "Volo monitor active",
         message:
-          "The monitor is running. No matching soccer drop-ins are visible right now.",
+          "The monitor is running. No matching drop-ins are visible right now.",
         priority: "3",
-        tags: "white_check_mark,soccer",
+        tags: "white_check_mark",
       });
     }
 
@@ -487,7 +487,7 @@ async function main() {
           title: "Volo monitor needs attention",
           message: `The monitor failed: ${truncate(message, 280)}`,
           priority: "4",
-          tags: "warning,soccer",
+          tags: "warning",
         });
         state.lastErrorDate = today;
       } catch (notificationError) {

@@ -251,7 +251,7 @@ async function scrapeMatches() {
       const looksRelevant = (text) => {
         const spots = availableSpots(text);
         return (
-          /\bsoccer\b/i.test(text) &&
+        /\b(?:soccer|basketball|flag football|volleyball)\b/i.test(text) &&
           /\bdrop[\s-]*in\b/i.test(text) &&
           spots !== null &&
           spots > 0 &&

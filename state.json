@@ -2,22 +2,13 @@
   "initialized": true,
   "current": [
     {
-      "id": "bdf94f5271e9dad6924b91af",
-      "title": "Drop In Monday Monday - Beach Volleyball - Somerville Club Volo at Assembly Row 11/2 · 8:45PM - 9:40PM $16/player Coed Skills (2) 6v6 3 spots",
-      "day": "Monday",
-      "time": "8:45pm",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/b740d353-0017-4838-8308-1b1d6323bf0a",
-      "spots": 3
-    },
-    {
-      "id": "4b365a358b7f706175a28b86",
-      "title": "Drop In Today Monday, Tuesday - Soccer - Somerville Conway Park Today 9/29 · 8:45PM - 9:45PM $16/player Coed All Skills 7v7 2 spots",
-      "day": "Monday",
-      "time": "8:45pm",
-      "location": "Somerville Conway Park",
-      "url": "https://www.volosports.com/game/fe366fb3-b813-475d-a24a-05ab7711ad3d",
-      "spots": 2
+      "id": "e626c0eaab7e32b0cfbb3f06",
+      "title": "Drop In Sunday Sunday - Basketball - Cambridge Peabody Elementary School 11/1 · 10AM - 11AM $16/player Men All Skills 5v5 1 spot",
+      "day": "Sunday",
+      "time": "10:00am",
+      "location": "Cambridge Peabody Elementary School",
+      "url": "https://www.volosports.com/game/545db88b-6d11-4ac5-818b-cec7119075cf",
+      "spots": 1
     },
     {
       "id": "9bfae8c306eeee816770a1a5",
@@ -47,22 +38,22 @@
       "spots": 3
     },
     {
-      "id": "d7662a40aa01133867282dee",
-      "title": "Drop In Today Tuesday - Beach Volleyball - Somerville Club Volo at Assembly Row Today 9/29 · 7:50PM - 8:45PM $16/player Coed Skills (2) 6v6 2 spots",
+      "id": "fa5ccb565dc11ab7e1e10548",
+      "title": "Drop In Tuesday Tuesday - Volleyball - Somerville Club Volo at Assembly Row 10/6 · 6:55PM - 7:50PM $16/player Coed All Skills 4v4 1 spot",
       "day": "Tuesday",
-      "time": "7:50pm",
+      "time": "6:55pm",
       "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/294a8038-b4f0-4f83-b49b-902b9d261e3d",
-      "spots": 2
+      "url": "https://www.volosports.com/game/0a847c79-42ab-4c13-86af-ac5a453ab870",
+      "spots": 1
     },
     {
-      "id": "2b1ef45f1999a6709e1c3697",
-      "title": "Drop In Tomorrow Indoor Wednesday - Indoor Volleyball - Chinatown Wang YMCA Tomorrow 9/30 · 6:50PM - 7:45PM $16/player Coed Skills (2) 6v6 1 spot",
-      "day": "Wednesday",
-      "time": "6:50pm",
-      "location": "Chinatown Wang YMCA",
-      "url": "https://www.volosports.com/game/0f021114-17d3-495d-bf2a-5e072b6fca8a",
-      "spots": 1
+      "id": "5522cae977463021a554d616",
+      "title": "Drop In Today Tuesday - Basketball - Cambridge Shady Hill School Today 9/29 · 9PM - 9:50PM $16/player Men All Skills 5v5 2 spots",
+      "day": "Tuesday",
+      "time": "9:00pm",
+      "location": "Cambridge Shady Hill School",
+      "url": "https://www.volosports.com/game/e076f3cf-a84f-4066-8d7d-85ac871c6541",
+      "spots": 2
     },
     {
       "id": "1ad944fa7a8543975a44e94a",

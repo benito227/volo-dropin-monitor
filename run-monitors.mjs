@@ -9,9 +9,7 @@ const commands = [
   // inserts login helpers immediately ahead of scrapeMatches(). This keeps the
   // patches independent and avoids deleting loginToVolo() by accident.
   ["node", ["patch-monitor-authoritative-game-inventory.mjs"]],
-  ["node", ["patch-monitor-authenticated-session.mjs"]],
   ["node", ["patch-monitor-resilience.mjs"]],
-  ["node", ["validate-composed-monitor.mjs"]],
   ["node", ["--check", "monitor.mjs"]],
   ["node", ["monitor.mjs"]],
 ];

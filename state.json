@@ -1,6 +1,43 @@
 {
   "initialized": true,
-  "current": [],
+  "current": [
+    {
+      "id": "bdf94f5271e9dad6924b91af",
+      "title": "Drop In Monday Monday - Beach Volleyball - Somerville Club Volo at Assembly Row 11/2 · 8:45PM - 9:40PM $16/player Coed Skills (2) 6v6 3 spots",
+      "day": "Monday",
+      "time": "8:45pm",
+      "location": "Somerville Club Volo at Assembly Row",
+      "url": "https://www.volosports.com/game/b740d353-0017-4838-8308-1b1d6323bf0a",
+      "spots": 3
+    },
+    {
+      "id": "9bfae8c306eeee816770a1a5",
+      "title": "Drop In Sunday Sunday - Coed Flag Football - Cambridge Ahern Field 10/25 · 9:30AM - 10:30AM $16/player Coed All Skills 7v7 1 spot",
+      "day": "Sunday",
+      "time": "9:30am",
+      "location": "Cambridge Ahern Field",
+      "url": "https://www.volosports.com/game/fe22d125-4a87-4ae4-8a52-a5c5817804b5",
+      "spots": 1
+    },
+    {
+      "id": "582a27f2554163ca5aa92e8e",
+      "title": "Drop In Thursday Thursday - Basketball - Cambridge Shady Hill School 10/1 · 8:10PM - 9PM $16/player Coed All Skills 5v5 3 spots",
+      "day": "Thursday",
+      "time": "8:10pm",
+      "location": "Cambridge Shady Hill School",
+      "url": "https://www.volosports.com/game/b0ddc8a8-bd12-442a-954c-438184d5e5e4",
+      "spots": 3
+    },
+    {
+      "id": "1ad944fa7a8543975a44e94a",
+      "title": "Drop In Wednesday Wednesday - Grass Volleyball - South Boston Moakley Park 10/7 · 8:30PM - 9:30PM $11/player Coed Skills (2) 6v6 3 spots",
+      "day": "Wednesday",
+      "time": "8:30pm",
+      "location": "South Boston Moakley Park",
+      "url": "https://www.volosports.com/game/247b3c23-7432-4062-b47d-ac6da1a9b743",
+      "spots": 3
+    }
+  ],
   "lastErrorDate": null,
   "keepaliveMonth": "2026-09"
 }

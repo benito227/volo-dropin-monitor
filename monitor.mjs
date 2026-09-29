@@ -43,6 +43,31 @@ function titleCase(value) {
     .toLowerCase()
     .replace(/\b\w/g, (character) => character.toUpperCase());
 }
+function describeListing(text) {
+  const normalized = normalizeText(text);
+  const lower = normalized.toLowerCase();
+
+  const sports = [
+    { name: "Beach Volleyball", tag: "volleyball" },
+    { name: "Grass Volleyball", tag: "volleyball" },
+    { name: "Volleyball", tag: "volleyball" },
+    { name: "Flag Football", tag: "football" },
+    { name: "Basketball", tag: "basketball" },
+    { name: "Soccer", tag: "soccer" },
+  ];
+  const sport =
+    sports.find((s) => lower.includes(s.name.toLowerCase())) ??
+    { name: "Sports", tag: "rotating_light" };
+
+  const date = normalized.match(/\b\d{1,2}\/\d{1,2}\b/)?.[0] ?? "";
+
+  const genderMatch = normalized.match(/\b(Coed|Open|Men['’]s|Women['’]s)\b/i);
+  const gender = genderMatch
+    ? genderMatch[1][0].toUpperCase() + genderMatch[1].slice(1).toLowerCase()
+    : "Gender mix unknown";
+
+  return { sport: sport.name, tag: sport.tag, date, gender };
+}
 
 function parseEventDetails(text) {
   const normalized = normalizeText(text);
@@ -429,10 +454,13 @@ async function main() {
     }
 
     for (const match of newMatches) {
+      const info = describeListing(match.title);
+      const when = [match.day, info.date].filter(Boolean).join(" ");
       await sendNotification({
-        title: "Volo soccer drop-in available",
-        message: `${match.day}, ${match.time}, ${match.location}`,
+        title: `Volo ${info.sport} drop-in available`,
+        message: `${when}, ${match.time}, ${match.location} · ${info.gender}`,
         click: match.url,
+        tags: `${info.tag},rotating_light`,
       });
     }
 

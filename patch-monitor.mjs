@@ -3,7 +3,7 @@ import { readFile, writeFile } from "node:fs/promises";
 const path = "monitor.mjs";
 let source = await readFile(path, "utf8");
 
-const timezoneLine = '    await page.emulateTimezone("America/Denver");';
+const timezoneLine = '    await page.emulateTimezone("America/New_York");';
 const newPageLine = "    const page = await browser.newPage();";
 if (!source.includes(timezoneLine)) {
   if (!source.includes(newPageLine)) {
@@ -117,7 +117,7 @@ if (!source.includes("async function hasMensAvailability(")) {
     "",
     "  const detailsPage = await browser.newPage();",
     "  try {",
-    "    await detailsPage.emulateTimezone(\"America/Denver\");",
+    "    await detailsPage.emulateTimezone(\"America/New_York\");",
     "    await detailsPage.setViewport({ width: 1440, height: 1200, deviceScaleFactor: 1 });",
     "    await detailsPage.setUserAgent(",
     "      \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 \" +",

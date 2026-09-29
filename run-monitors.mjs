@@ -10,6 +10,7 @@ const commands = [
   // patches independent and avoids deleting loginToVolo() by accident.
   ["node", ["patch-monitor-authoritative-game-inventory.mjs"]],
   ["node", ["patch-monitor-resilience.mjs"]],
+  ["node", ["patch-monitor-known-listing-cache.mjs"]],
   ["node", ["--check", "monitor.mjs"]],
   ["node", ["monitor.mjs"]],
 ];

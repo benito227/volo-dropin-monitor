@@ -31,7 +31,7 @@ jobs:
     env:
       # Use an authenticated Volo session because app/user-specific drop-in
       # inventory can differ from the anonymous public web page.
-      VOLO_URL: https://www.volosports.com/discover/denver?category=daily-sports&programType=dropin&sports=soccer
+      VOLO_URL: ${{ vars.VOLO_URL }}
       VOLO_EMAIL: ${{ secrets.VOLO_EMAIL }}
       VOLO_PASSWORD: ${{ secrets.VOLO_PASSWORD }}
       NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}

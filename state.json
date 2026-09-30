@@ -20,12 +20,12 @@
       "spots": 1
     },
     {
-      "id": "791ca3a1cd41141fb1b0f9c6",
-      "title": "Drop In Today Grass Wednesday - Coed 7v7 Soccer - South Boston Evans Field Today 9/30 · 10PM - 11PM $16/player Coed All Skills 7v7 1 spot",
+      "id": "69940b4f6efe42d5cc903171",
+      "title": "Drop In Today Wednesday - Soccer - Somerville Dilboy Stadium Today 9/30 · 10PM - 11PM $16/player Coed Skills (2) 7v7 1 spot",
       "day": "Wednesday",
       "time": "10:00pm",
-      "location": "South Boston Evans Field",
-      "url": "https://www.volosports.com/game/b9333307-2df7-4027-9705-0050da9b6c74",
+      "location": "Somerville Dilboy Stadium",
+      "url": "https://www.volosports.com/game/888d7a1c-2f33-4c15-8e40-621a336b946c",
       "spots": 1
     },
     {
@@ -54,6 +54,15 @@
       "location": "South Boston Moakley Park",
       "url": "https://www.volosports.com/game/247b3c23-7432-4062-b47d-ac6da1a9b743",
       "spots": 3
+    },
+    {
+      "id": "e761a9fe3a9b6dc127016d3b",
+      "title": "Drop In Tomorrow Wednesday, Thursday - Soccer - Somerville Conway Park Tomorrow 10/1 · 8:45PM - 9:45PM $16/player Coed All Skills 7v7 1 spot",
+      "day": "Wednesday",
+      "time": "8:45pm",
+      "location": "Somerville Conway Park",
+      "url": "https://www.volosports.com/game/1734dd1d-e78b-42cf-9a6e-95e4cf6304a9",
+      "spots": 1
     }
   ],
   "lastErrorDate": null,

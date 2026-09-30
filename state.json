@@ -11,30 +11,12 @@
       "spots": 1
     },
     {
-      "id": "9bfae8c306eeee816770a1a5",
-      "title": "Drop In Sunday Sunday - Coed Flag Football - Cambridge Ahern Field 10/25 · 9:30AM - 10:30AM $16/player Coed All Skills 7v7 1 spot",
-      "day": "Sunday",
-      "time": "9:30am",
-      "location": "Cambridge Ahern Field",
-      "url": "https://www.volosports.com/game/fe22d125-4a87-4ae4-8a52-a5c5817804b5",
-      "spots": 1
-    },
-    {
       "id": "b4467ebd656e983fc7df1f13",
       "title": "Drop In Tomorrow Thursday - Beach Volleyball - Somerville Club Volo at Assembly Row Tomorrow 10/1 · 7:50PM - 8:45PM $16/player Coed Skills (2) 6v6 1 spot",
       "day": "Thursday",
       "time": "7:50pm",
       "location": "Somerville Club Volo at Assembly Row",
       "url": "https://www.volosports.com/game/4dbb38e9-a897-4ee5-9a1a-90a7e6eca2dc",
-      "spots": 1
-    },
-    {
-      "id": "a2ac013e6f0c6851616e23fc",
-      "title": "Drop In Tomorrow Indoor Thursday - Indoor Intermediate Volleyball - Fenway Simmons University Tomorrow 10/1 · 8PM - 9PM $16/player Coed Intermediate 6v6 1 spot",
-      "day": "Thursday",
-      "time": "8:00pm",
-      "location": "Fenway Simmons University",
-      "url": "https://www.volosports.com/game/daf187d3-c233-4ed6-805b-b67c592b5f9f",
       "spots": 1
     },
     {
@@ -65,6 +47,15 @@
       "spots": 1
     },
     {
+      "id": "c2ebe264497c91948f560cd9",
+      "title": "Drop In Today Wednesday, Thursday - Soccer - Somerville Foss Park Today 9/30 · 10PM - 11PM $16/player Coed All Skills 7v7 3 spots",
+      "day": "Wednesday",
+      "time": "10:00pm",
+      "location": "Somerville Foss Park",
+      "url": "https://www.volosports.com/game/a342c1fa-0fab-4fff-a729-62c60d0d3ca4",
+      "spots": 3
+    },
+    {
       "id": "1ad944fa7a8543975a44e94a",
       "title": "Drop In Wednesday Wednesday - Grass Volleyball - South Boston Moakley Park 10/7 · 8:30PM - 9:30PM $11/player Coed Skills (2) 6v6 3 spots",
       "day": "Wednesday",
@@ -74,12 +65,12 @@
       "spots": 3
     },
     {
-      "id": "1c64b6a93c72a748672aec22",
+      "id": "4b8f3dd1e9cad610168d2873",
       "title": "Drop In Today Turf Wednesday - Coed Flag Football - Fenway Sweeney Field - Wentworth Today 9/30 · 9:30PM - 10:30PM $16/player Coed All Skills 7v7 2 spots",
       "day": "Wednesday",
       "time": "9:30pm",
       "location": "Wentworth",
-      "url": "https://www.volosports.com/game/d0b4c285-0314-4858-b6b8-679c3f48f2da",
+      "url": "https://www.volosports.com/game/4d83ea95-fd07-4a08-a68b-3254f2571183",
       "spots": 2
     }
   ],

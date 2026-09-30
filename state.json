@@ -2,15 +2,6 @@
   "initialized": true,
   "current": [
     {
-      "id": "e626c0eaab7e32b0cfbb3f06",
-      "title": "Drop In Sunday Sunday - Basketball - Cambridge Peabody Elementary School 11/1 · 10AM - 11AM $16/player Men All Skills 5v5 1 spot",
-      "day": "Sunday",
-      "time": "10:00am",
-      "location": "Cambridge Peabody Elementary School",
-      "url": "https://www.volosports.com/game/545db88b-6d11-4ac5-818b-cec7119075cf",
-      "spots": 1
-    },
-    {
       "id": "9bfae8c306eeee816770a1a5",
       "title": "Drop In Sunday Sunday - Coed Flag Football - Cambridge Ahern Field 10/25 · 9:30AM - 10:30AM $16/player Coed All Skills 7v7 1 spot",
       "day": "Sunday",
@@ -36,6 +27,15 @@
       "location": "Cambridge Shady Hill School",
       "url": "https://www.volosports.com/game/b0ddc8a8-bd12-442a-954c-438184d5e5e4",
       "spots": 3
+    },
+    {
+      "id": "e761a9fe3a9b6dc127016d3b",
+      "title": "Drop In Thursday Wednesday, Thursday - Soccer - Somerville Conway Park 10/1 · 8:45PM - 9:45PM $16/player Coed All Skills 7v7 1 spot",
+      "day": "Thursday",
+      "time": "8:45pm",
+      "location": "Somerville Conway Park",
+      "url": "https://www.volosports.com/game/1734dd1d-e78b-42cf-9a6e-95e4cf6304a9",
+      "spots": 1
     },
     {
       "id": "0a5e65daf92912aca51b5487",

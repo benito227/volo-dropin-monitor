@@ -2,6 +2,15 @@
   "initialized": true,
   "current": [
     {
+      "id": "bdf94f5271e9dad6924b91af",
+      "title": "Drop In Monday Monday - Beach Volleyball - Somerville Club Volo at Assembly Row 11/2 · 8:45PM - 9:40PM $16/player Coed Skills (2) 6v6 3 spots",
+      "day": "Monday",
+      "time": "8:45pm",
+      "location": "Somerville Club Volo at Assembly Row",
+      "url": "https://www.volosports.com/game/b740d353-0017-4838-8308-1b1d6323bf0a",
+      "spots": 3
+    },
+    {
       "id": "e626c0eaab7e32b0cfbb3f06",
       "title": "Drop In Sunday Sunday - Basketball - Cambridge Peabody Elementary School 11/1 · 10AM - 11AM $16/player Men All Skills 5v5 1 spot",
       "day": "Sunday",
@@ -20,22 +29,13 @@
       "spots": 1
     },
     {
-      "id": "60069a73fa4f14498109ba7a",
-      "title": "Drop In Today Wednesday - Grass Volleyball - South Boston Moakley Park Today 9/30 · 6:30PM - 7:30PM $11/player Coed Skills (2) 6v6 1 spot",
-      "day": "Wednesday",
-      "time": "6:30pm",
-      "location": "South Boston Moakley Park",
-      "url": "https://www.volosports.com/game/571b3be3-7f2d-4ba0-9868-65c6162e1673",
-      "spots": 1
-    },
-    {
       "id": "b734ad26ee7a89b64d6b1754",
-      "title": "Drop In Today Wednesday - Basketball - Cambridge Shady Hill School Today 9/30 · 8:10PM - 9PM $16/player Women All Skills 5v5 2 spots",
+      "title": "Drop In Today Wednesday - Basketball - Cambridge Shady Hill School Today 9/30 · 8:10PM - 9PM $16/player Women All Skills 5v5 1 spot",
       "day": "Wednesday",
       "time": "8:10pm",
       "location": "Cambridge Shady Hill School",
       "url": "https://www.volosports.com/game/5c1cb2b4-8d0a-4399-9388-7bf3a9389493",
-      "spots": 2
+      "spots": 1
     },
     {
       "id": "1ad944fa7a8543975a44e94a",

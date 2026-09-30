@@ -38,13 +38,22 @@
       "spots": 1
     },
     {
-      "id": "c2ebe264497c91948f560cd9",
-      "title": "Drop In Today Wednesday, Thursday - Soccer - Somerville Foss Park Today 9/30 · 10PM - 11PM $16/player Coed All Skills 7v7 3 spots",
+      "id": "60069a73fa4f14498109ba7a",
+      "title": "Drop In Today Wednesday - Grass Volleyball - South Boston Moakley Park Today 9/30 · 6:30PM - 7:30PM $11/player Coed Skills (2) 6v6 2 spots",
       "day": "Wednesday",
-      "time": "10:00pm",
-      "location": "Somerville Foss Park",
-      "url": "https://www.volosports.com/game/a342c1fa-0fab-4fff-a729-62c60d0d3ca4",
-      "spots": 3
+      "time": "6:30pm",
+      "location": "South Boston Moakley Park",
+      "url": "https://www.volosports.com/game/571b3be3-7f2d-4ba0-9868-65c6162e1673",
+      "spots": 2
+    },
+    {
+      "id": "9314b28647ea8cb7e4dda764",
+      "title": "Drop In Today Wednesday - Grass Volleyball - South Boston Moakley Park Today 9/30 · 7:30PM - 8:30PM $11/player Coed Skills (2) 6v6 1 spot",
+      "day": "Wednesday",
+      "time": "7:30pm",
+      "location": "South Boston Moakley Park",
+      "url": "https://www.volosports.com/game/b58659fb-a88d-4197-8eb5-ed2a9b351d64",
+      "spots": 1
     },
     {
       "id": "1ad944fa7a8543975a44e94a",

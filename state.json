@@ -39,21 +39,12 @@
     },
     {
       "id": "b6abb6056eac84d99675f8ab",
-      "title": "Drop In Today Wednesday - Coed 7v7 Soccer - Cambridge Danehy Park Today 9/30 · 8PM - 9PM $16/player Coed Skills (2) 7v7 2 spots",
+      "title": "Drop In Today Wednesday - Coed 7v7 Soccer - Cambridge Danehy Park Today 9/30 · 8PM - 9PM $16/player Coed Skills (2) 7v7 1 spot",
       "day": "Wednesday",
       "time": "8:00pm",
       "location": "Cambridge Danehy Park",
       "url": "https://www.volosports.com/game/accac629-8528-453a-8b46-45ff1900162c",
-      "spots": 2
-    },
-    {
-      "id": "659a3132389763a32c123173",
-      "title": "Drop In Today Wednesday - Soccer - Somerville Dilboy Stadium Today 9/30 · 8PM - 9PM $16/player Coed Skills (2) 7v7 2 spots",
-      "day": "Wednesday",
-      "time": "8:00pm",
-      "location": "Somerville Dilboy Stadium",
-      "url": "https://www.volosports.com/game/910257db-d9d5-40ef-87f4-411295222c47",
-      "spots": 2
+      "spots": 1
     },
     {
       "id": "b734ad26ee7a89b64d6b1754",
@@ -72,6 +63,15 @@
       "location": "South Boston Moakley Park",
       "url": "https://www.volosports.com/game/247b3c23-7432-4062-b47d-ac6da1a9b743",
       "spots": 3
+    },
+    {
+      "id": "08528c1991a18083968858aa",
+      "title": "Drop In Today Wednesday - Soccer - Somerville Dilboy Stadium Today 9/30 · 9PM - 10PM $16/player Coed Skills (2) 7v7 1 spot",
+      "day": "Wednesday",
+      "time": "9:00pm",
+      "location": "Somerville Dilboy Stadium",
+      "url": "https://www.volosports.com/game/831400e3-e37a-4f7b-831b-9c734e653315",
+      "spots": 1
     }
   ],
   "lastErrorDate": null,

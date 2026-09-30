@@ -2,15 +2,6 @@
   "initialized": true,
   "current": [
     {
-      "id": "bdf94f5271e9dad6924b91af",
-      "title": "Drop In Monday Monday - Beach Volleyball - Somerville Club Volo at Assembly Row 11/2 · 8:45PM - 9:40PM $16/player Coed Skills (2) 6v6 3 spots",
-      "day": "Monday",
-      "time": "8:45pm",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/b740d353-0017-4838-8308-1b1d6323bf0a",
-      "spots": 3
-    },
-    {
       "id": "e626c0eaab7e32b0cfbb3f06",
       "title": "Drop In Sunday Sunday - Basketball - Cambridge Peabody Elementary School 11/1 · 10AM - 11AM $16/player Men All Skills 5v5 1 spot",
       "day": "Sunday",
@@ -29,12 +20,21 @@
       "spots": 1
     },
     {
-      "id": "d7662a40aa01133867282dee",
-      "title": "Drop In Tuesday Tuesday - Beach Volleyball - Somerville Club Volo at Assembly Row 11/3 · 6:55PM - 7:50PM $16/player Coed Skills (2) 6v6 2 spots",
-      "day": "Tuesday",
-      "time": "6:55pm",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/294a8038-b4f0-4f83-b49b-902b9d261e3d",
+      "id": "791ca3a1cd41141fb1b0f9c6",
+      "title": "Drop In Today Grass Wednesday - Coed 7v7 Soccer - South Boston Evans Field Today 9/30 · 10PM - 11PM $16/player Coed All Skills 7v7 1 spot",
+      "day": "Wednesday",
+      "time": "10:00pm",
+      "location": "South Boston Evans Field",
+      "url": "https://www.volosports.com/game/b9333307-2df7-4027-9705-0050da9b6c74",
+      "spots": 1
+    },
+    {
+      "id": "3838f8db0ef97b7c282ae4c5",
+      "title": "Drop In Today Wednesday - Grass Volleyball - South Boston Moakley Park Today 9/30 · 7:30PM - 8:30PM $11/player Coed Skills (2) 6v6 2 spots",
+      "day": "Wednesday",
+      "time": "7:30pm",
+      "location": "South Boston Moakley Park",
+      "url": "https://www.volosports.com/game/9f689ba0-2d98-47b0-9f4e-5fa2e22a99f5",
       "spots": 2
     },
     {

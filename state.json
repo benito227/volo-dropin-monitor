@@ -20,15 +20,6 @@
       "spots": 1
     },
     {
-      "id": "45364ea1fa4f9ffd544c2670",
-      "title": "Drop In Sunday Sunday - Basketball - Cambridge Shady Hill School 10/4 · 10AM - 11AM $16/player Men All Skills 5v5 1 spot",
-      "day": "Sunday",
-      "time": "10:00am",
-      "location": "Cambridge Shady Hill School",
-      "url": "https://www.volosports.com/game/9156d7c2-b739-4144-ac3f-c8887dd6b78e",
-      "spots": 1
-    },
-    {
       "id": "1dea66433243e503e4c3c73b",
       "title": "Drop In Today Thursday - Volleyball - Cambridge Cambridge Rindge & Latin School - War Memorial Recreational Center Today 10/1 · 8:15PM - 9:15PM $16/player Coed Skills (2) 6v6 1 spot",
       "day": "Thursday",
@@ -36,6 +27,15 @@
       "location": "War Memorial Recreational Center",
       "url": "https://www.volosports.com/game/903aa4f5-fb13-495e-80bb-81f8c512097f",
       "spots": 1
+    },
+    {
+      "id": "d7662a40aa01133867282dee",
+      "title": "Drop In Tuesday Tuesday - Beach Volleyball - Somerville Club Volo at Assembly Row 11/3 · 6:55PM - 7:50PM $16/player Coed Skills (2) 6v6 2 spots",
+      "day": "Tuesday",
+      "time": "6:55pm",
+      "location": "Somerville Club Volo at Assembly Row",
+      "url": "https://www.volosports.com/game/294a8038-b4f0-4f83-b49b-902b9d261e3d",
+      "spots": 2
     },
     {
       "id": "1ad944fa7a8543975a44e94a",

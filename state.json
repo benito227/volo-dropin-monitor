@@ -2,6 +2,15 @@
   "initialized": true,
   "current": [
     {
+      "id": "bdf94f5271e9dad6924b91af",
+      "title": "Drop In Monday Monday - Beach Volleyball - Somerville Club Volo at Assembly Row 11/2 · 8:45PM - 9:40PM $16/player Coed Skills (2) 6v6 3 spots",
+      "day": "Monday",
+      "time": "8:45pm",
+      "location": "Somerville Club Volo at Assembly Row",
+      "url": "https://www.volosports.com/game/b740d353-0017-4838-8308-1b1d6323bf0a",
+      "spots": 3
+    },
+    {
       "id": "e626c0eaab7e32b0cfbb3f06",
       "title": "Drop In Sunday Sunday - Basketball - Cambridge Peabody Elementary School 11/1 · 10AM - 11AM $16/player Men All Skills 5v5 1 spot",
       "day": "Sunday",
@@ -17,15 +26,6 @@
       "time": "12:00pm",
       "location": "Wentworth",
       "url": "https://www.volosports.com/game/ddf23404-7384-47b6-8ff7-169dd3f880c6",
-      "spots": 1
-    },
-    {
-      "id": "1dea66433243e503e4c3c73b",
-      "title": "Drop In Today Thursday - Volleyball - Cambridge Cambridge Rindge & Latin School - War Memorial Recreational Center Today 10/1 · 8:15PM - 9:15PM $16/player Coed Skills (2) 6v6 1 spot",
-      "day": "Thursday",
-      "time": "8:15pm",
-      "location": "War Memorial Recreational Center",
-      "url": "https://www.volosports.com/game/903aa4f5-fb13-495e-80bb-81f8c512097f",
       "spots": 1
     },
     {

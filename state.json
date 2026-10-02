@@ -20,13 +20,13 @@
       "spots": 1
     },
     {
-      "id": "39160af4e08998d2c487fee6",
-      "title": "Drop In Sunday Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth 10/4 · 12PM - 1PM $16/player Open All Skills 7v7 1 spot",
-      "day": "Sunday",
-      "time": "12:00pm",
-      "location": "Wentworth",
-      "url": "https://www.volosports.com/game/ddf23404-7384-47b6-8ff7-169dd3f880c6",
-      "spots": 1
+      "id": "4465d12b8bc84de12d25b3ca",
+      "title": "Drop In Thursday Indoor Thursday - Indoor Intermediate Volleyball - Fenway Simmons University 11/5 · 7PM - 8PM $16/player Coed Intermediate 6v6 5 spots",
+      "day": "Thursday",
+      "time": "7:00pm",
+      "location": "Fenway Simmons University",
+      "url": "https://www.volosports.com/game/1892fcff-0925-494c-9b0b-f41ce06e7cc5",
+      "spots": 5
     },
     {
       "id": "de0b72b488a0f3a4e9a19ce7",
@@ -36,6 +36,15 @@
       "location": "Natick Beach House",
       "url": "https://www.volosports.com/game/fe17e76f-5ebe-4217-9137-7400c0146446",
       "spots": 1
+    },
+    {
+      "id": "d7662a40aa01133867282dee",
+      "title": "Drop In Tuesday Tuesday - Beach Volleyball - Somerville Club Volo at Assembly Row 11/3 · 6:55PM - 7:50PM $16/player Coed Skills (2) 6v6 2 spots",
+      "day": "Tuesday",
+      "time": "6:55pm",
+      "location": "Somerville Club Volo at Assembly Row",
+      "url": "https://www.volosports.com/game/294a8038-b4f0-4f83-b49b-902b9d261e3d",
+      "spots": 2
     },
     {
       "id": "1ad944fa7a8543975a44e94a",

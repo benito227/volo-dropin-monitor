@@ -20,15 +20,6 @@
       "spots": 1
     },
     {
-      "id": "90bbc66b91070a53abd50544",
-      "title": "Drop In Today Sunday - Volleyball - Fenway Simmons University Today 10/4 · 1PM - 2PM $16/player Coed All Skills 6v6 1 spot",
-      "day": "Sunday",
-      "time": "1:00pm",
-      "location": "Fenway Simmons University",
-      "url": "https://www.volosports.com/game/f8da2854-6fe9-4d7a-b5ca-293c088225db",
-      "spots": 1
-    },
-    {
       "id": "e626c0eaab7e32b0cfbb3f06",
       "title": "Drop In Sunday Sunday - Basketball - Cambridge Peabody Elementary School 11/1 · 10AM - 11AM $16/player Men All Skills 5v5 1 spot",
       "day": "Sunday",
@@ -54,6 +45,15 @@
       "location": "Somerville Club Volo at Assembly Row",
       "url": "https://www.volosports.com/game/17a96df1-1f85-4989-9f1b-9283b78898c0",
       "spots": 2
+    },
+    {
+      "id": "eac88865f14ee58f1acd105b",
+      "title": "Drop In Today Sunday - Soccer - Somerville Healey School Today 10/4 · 4PM - 5PM $16/player Coed All Skills 8v8 6 spots",
+      "day": "Sunday",
+      "time": "4:00pm",
+      "location": "Somerville Healey School",
+      "url": "https://www.volosports.com/game/c2c2bfc2-d17b-4c05-8b9d-be410436ef57",
+      "spots": 6
     }
   ],
   "lastErrorDate": null,

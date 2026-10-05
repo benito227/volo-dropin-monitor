@@ -11,21 +11,21 @@
       "spots": 2
     },
     {
-      "id": "fbe959ecbb067ef709d5210f",
-      "title": "Drop In Today Monday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 10/5 · 10PM - 11PM $16/player Coed Skills (2) 7v7 1 spot",
-      "day": "Monday",
-      "time": "10:00pm",
-      "location": "Wentworth",
-      "url": "https://www.volosports.com/game/d5c2a43c-0f72-428c-940e-2121209106cc",
-      "spots": 1
-    },
-    {
       "id": "18ef3158ac3992aca25fbecb",
       "title": "Drop In Today Monday - Coed Flag Football - South Boston Moakley Park Today 10/5 · 6PM - 7PM $16/player Coed Social/Beginner 7v7 1 spot",
       "day": "Monday",
       "time": "6:00pm",
       "location": "South Boston Moakley Park",
       "url": "https://www.volosports.com/game/283ed272-bb4d-4775-845a-58aabdae65c4",
+      "spots": 1
+    },
+    {
+      "id": "e626c0eaab7e32b0cfbb3f06",
+      "title": "Drop In Sunday Sunday - Basketball - Cambridge Peabody Elementary School 11/1 · 10AM - 11AM $16/player Men All Skills 5v5 1 spot",
+      "day": "Sunday",
+      "time": "10:00am",
+      "location": "Cambridge Peabody Elementary School",
+      "url": "https://www.volosports.com/game/545db88b-6d11-4ac5-818b-cec7119075cf",
       "spots": 1
     },
     {
@@ -36,15 +36,6 @@
       "location": "Charlestown Charlestown YMCA",
       "url": "https://www.volosports.com/game/d27f22b5-4323-46dc-9d82-76374874fdc6",
       "spots": 4
-    },
-    {
-      "id": "a6b0f94d1798daf880c3357f",
-      "title": "Drop In Wednesday Wednesday - Soccer - Somerville Dilboy Stadium 10/7 · 10PM - 11PM $16/player Coed Skills (2) 7v7 2 spots",
-      "day": "Wednesday",
-      "time": "10:00pm",
-      "location": "Somerville Dilboy Stadium",
-      "url": "https://www.volosports.com/game/6c473058-34ff-4526-a32f-ca8bef1eba7f",
-      "spots": 2
     },
     {
       "id": "1ad944fa7a8543975a44e94a",

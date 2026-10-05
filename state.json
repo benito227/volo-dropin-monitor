@@ -2,6 +2,15 @@
   "initialized": true,
   "current": [
     {
+      "id": "f66c47248a0f27e590bbe2bd",
+      "title": "Drop In Today Monday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 10/5 · 10PM - 11PM $16/player Coed Skills (2) 7v7 1 spot",
+      "day": "Monday",
+      "time": "10:00pm",
+      "location": "Wentworth",
+      "url": "https://www.volosports.com/game/f485bcc8-30fa-4c07-9ac6-b636ce3fab39",
+      "spots": 1
+    },
+    {
       "id": "e626c0eaab7e32b0cfbb3f06",
       "title": "Drop In Sunday Sunday - Basketball - Cambridge Peabody Elementary School 11/1 · 10AM - 11AM $16/player Men All Skills 5v5 1 spot",
       "day": "Sunday",
@@ -12,12 +21,12 @@
     },
     {
       "id": "9ad9647b0732238389a2f800",
-      "title": "Drop In Tomorrow Tuesday - Coed 5v5 Basketball - Charlestown Charlestown YMCA Tomorrow 10/6 · 7PM - 8PM $16/player Coed All Skills 5v5 2 spots",
+      "title": "Drop In Tomorrow Tuesday - Coed 5v5 Basketball - Charlestown Charlestown YMCA Tomorrow 10/6 · 7PM - 8PM $16/player Coed All Skills 5v5 4 spots",
       "day": "Tuesday",
       "time": "7:00pm",
       "location": "Charlestown Charlestown YMCA",
       "url": "https://www.volosports.com/game/d27f22b5-4323-46dc-9d82-76374874fdc6",
-      "spots": 2
+      "spots": 4
     },
     {
       "id": "7d502b38f4f457581b7c4208",

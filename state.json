@@ -2,6 +2,15 @@
   "initialized": true,
   "current": [
     {
+      "id": "11864286b38a443af6f32707",
+      "title": "Drop In Monday Monday - Coed Flag Football - South Boston Moakley Park 10/12 · 10PM - 11PM $16/player Coed Social/Beginner 7v7 3 spots",
+      "day": "Monday",
+      "time": "10:00pm",
+      "location": "South Boston Moakley Park",
+      "url": "https://www.volosports.com/game/ab42e668-e077-422f-aa0a-4a8c69c28567",
+      "spots": 3
+    },
+    {
       "id": "c70773ac5fc978f3ff519aca",
       "title": "Drop In Sunday Sunday - Basketball - Cambridge Shady Hill School 10/11 · 12PM - 1PM $16/player Men All Skills 5v5 1 spot",
       "day": "Sunday",
@@ -21,29 +30,11 @@
     },
     {
       "id": "9ad9647b0732238389a2f800",
-      "title": "Drop In Today Tuesday - Coed 5v5 Basketball - Charlestown Charlestown YMCA Today 10/6 · 7PM - 8PM $16/player Coed All Skills 5v5 2 spots",
+      "title": "Drop In Today Tuesday - Coed 5v5 Basketball - Charlestown Charlestown YMCA Today 10/6 · 7PM - 8PM $16/player Coed All Skills 5v5 1 spot",
       "day": "Tuesday",
       "time": "7:00pm",
       "location": "Charlestown Charlestown YMCA",
       "url": "https://www.volosports.com/game/d27f22b5-4323-46dc-9d82-76374874fdc6",
-      "spots": 2
-    },
-    {
-      "id": "f6b6835fb128f1564c34790f",
-      "title": "Drop In Today Grass Tuesday - Grass Volleyball - South Boston Moakley Park Today 10/6 · 7:30PM - 8:30PM $11/player Coed Social/Beginner 6v6 1 spot",
-      "day": "Tuesday",
-      "time": "7:30pm",
-      "location": "South Boston Moakley Park",
-      "url": "https://www.volosports.com/game/78876d0f-a7e9-4cce-ba5d-3813eb6f4c06",
-      "spots": 1
-    },
-    {
-      "id": "d92846e8c2dcd45309cb2cb7",
-      "title": "Drop In Today Tuesday - Beach Volleyball - Somerville Club Volo at Assembly Row Today 10/6 · 7:50PM - 8:45PM $16/player Coed Skills (2) 6v6 1 spot",
-      "day": "Tuesday",
-      "time": "7:50pm",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/d26f9c71-a880-477d-99f5-2c4a79d007e9",
       "spots": 1
     },
     {

@@ -2,15 +2,6 @@
   "initialized": true,
   "current": [
     {
-      "id": "11864286b38a443af6f32707",
-      "title": "Drop In Monday Monday - Coed Flag Football - South Boston Moakley Park 10/12 · 10PM - 11PM $16/player Coed Social/Beginner 7v7 3 spots",
-      "day": "Monday",
-      "time": "10:00pm",
-      "location": "South Boston Moakley Park",
-      "url": "https://www.volosports.com/game/ab42e668-e077-422f-aa0a-4a8c69c28567",
-      "spots": 3
-    },
-    {
       "id": "c70773ac5fc978f3ff519aca",
       "title": "Drop In Sunday Sunday - Basketball - Cambridge Shady Hill School 10/11 · 12PM - 1PM $16/player Men All Skills 5v5 1 spot",
       "day": "Sunday",
@@ -36,6 +27,15 @@
       "location": "Somerville Club Volo at Assembly Row",
       "url": "https://www.volosports.com/game/0a847c79-42ab-4c13-86af-ac5a453ab870",
       "spots": 2
+    },
+    {
+      "id": "1f794c1c15df938beabb65f8",
+      "title": "Drop In Today Tuesday - Soccer - Dorchester Kroc Today 10/6 · 7:20PM - 8:10PM $16/player Coed All Skills 8v8 1 spot",
+      "day": "Tuesday",
+      "time": "7:20pm",
+      "location": "Dorchester Kroc",
+      "url": "https://www.volosports.com/game/5a7c2c24-ce7e-4a9f-b9fb-46610d226906",
+      "spots": 1
     },
     {
       "id": "1ad944fa7a8543975a44e94a",

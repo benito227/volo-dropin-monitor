@@ -20,12 +20,21 @@
       "spots": 3
     },
     {
-      "id": "31860a9d575a3b19dba9a461",
-      "title": "Drop In Today Tuesday - Men's 7v7 Soccer - Fenway Sweeney Field - Wentworth Today 10/6 · 10PM - 11PM $16/player Men All Skills 7v7 1 spot",
-      "day": "Tuesday",
+      "id": "8c697a789562f4cba19349fd",
+      "title": "Drop In Thursday Thursday - Basketball - Cambridge Shady Hill School 10/8 · 9PM - 9:50PM $16/player Coed All Skills 5v5 2 spots",
+      "day": "Thursday",
+      "time": "9:00pm",
+      "location": "Cambridge Shady Hill School",
+      "url": "https://www.volosports.com/game/2a3b5974-4c55-4a07-8ed1-d4214cd43161",
+      "spots": 2
+    },
+    {
+      "id": "cc49539c496d8f4f7ad66c48",
+      "title": "Drop In Tomorrow Grass Wednesday - Coed 7v7 Soccer - South Boston Evans Field Tomorrow 10/7 · 10PM - 11PM $16/player Coed All Skills 7v7 1 spot",
+      "day": "Wednesday",
       "time": "10:00pm",
-      "location": "Wentworth",
-      "url": "https://www.volosports.com/game/a3f256cd-e1b1-4c47-b390-7e95414f3571",
+      "location": "South Boston Evans Field",
+      "url": "https://www.volosports.com/game/c6b2af86-b654-4975-adf1-afdaf6c0f200",
       "spots": 1
     },
     {

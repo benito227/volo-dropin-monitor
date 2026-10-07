@@ -21,12 +21,12 @@
     },
     {
       "id": "a24b52def27656bd83728dbe",
-      "title": "Drop In Today Wednesday - Grass Volleyball - South Boston Moakley Park Today 10/7 · 6:30PM - 7:30PM $11/player Coed Skills (2) 6v6 2 spots",
+      "title": "Drop In Today Wednesday - Grass Volleyball - South Boston Moakley Park Today 10/7 · 6:30PM - 7:30PM $11/player Coed Skills (2) 6v6 1 spot",
       "day": "Wednesday",
       "time": "6:30pm",
       "location": "South Boston Moakley Park",
       "url": "https://www.volosports.com/game/58e7823f-6fc7-4908-878e-eb28b00669a5",
-      "spots": 2
+      "spots": 1
     },
     {
       "id": "1ad944fa7a8543975a44e94a",
@@ -35,6 +35,15 @@
       "time": "8:30pm",
       "location": "South Boston Moakley Park",
       "url": "https://www.volosports.com/game/247b3c23-7432-4062-b47d-ac6da1a9b743",
+      "spots": 2
+    },
+    {
+      "id": "51d2c932063a2b64c48c7b63",
+      "title": "Drop In Today Wednesday - Coed 7v7 Soccer - Fenway Sweeney Field - Wentworth Today 10/7 · 9PM - 10PM $16/player Coed Skills (2) 7v7 2 spots",
+      "day": "Wednesday",
+      "time": "9:00pm",
+      "location": "Wentworth",
+      "url": "https://www.volosports.com/game/2f89e934-a6be-4cb3-b79a-c4823841f7f9",
       "spots": 2
     }
   ],

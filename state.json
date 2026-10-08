@@ -47,12 +47,30 @@
       "spots": 1
     },
     {
-      "id": "ef3921fb6413523d8ba21767",
-      "title": "Drop In Today Thursday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 10/8 · 6PM - 7PM $16/player Coed All Skills 7v7 1 spot",
+      "id": "9b1ee8cf2e5a3bdd2b7bb7e1",
+      "title": "Drop In Sunday Sunday - Soccer - Somerville Glen Park 10/11 · 4PM - 5PM $16/player Coed All Skills 8v8 3 spots",
+      "day": "Sunday",
+      "time": "4:00pm",
+      "location": "Somerville Glen Park",
+      "url": "https://www.volosports.com/game/059a470c-3be1-483d-90f0-037f7dcf522d",
+      "spots": 3
+    },
+    {
+      "id": "c7268b5d04bfc5e348bc4b62",
+      "title": "Drop In Today Thursday - Beach Volleyball - Somerville Club Volo at Assembly Row Today 10/8 · 6:55PM - 7:50PM $16/player Coed Skills (2) 6v6 3 spots",
       "day": "Thursday",
-      "time": "6:00pm",
-      "location": "Wentworth",
-      "url": "https://www.volosports.com/game/f9ccc683-834d-4e08-bd69-7792d2f65e1c",
+      "time": "6:55pm",
+      "location": "Somerville Club Volo at Assembly Row",
+      "url": "https://www.volosports.com/game/ec4a24fa-6127-4457-b4a7-030e5f5b5b4f",
+      "spots": 3
+    },
+    {
+      "id": "d9e45f73d658011e06d213f5",
+      "title": "Drop In Today Thursday - Basketball - Cambridge Shady Hill School Today 10/8 · 7:20PM - 8:10PM $16/player Coed All Skills 5v5 1 spot",
+      "day": "Thursday",
+      "time": "7:20pm",
+      "location": "Cambridge Shady Hill School",
+      "url": "https://www.volosports.com/game/71eca832-3642-44e5-9236-be46a540c8e5",
       "spots": 1
     },
     {
@@ -62,15 +80,6 @@
       "time": "7:50pm",
       "location": "Somerville Club Volo at Assembly Row",
       "url": "https://www.volosports.com/game/472ee7ef-e399-4184-8d49-14183dac3bc1",
-      "spots": 1
-    },
-    {
-      "id": "06efcd52745bbd6db614ab3e",
-      "title": "Drop In Today Indoor Tuesday, Thursday - Volleyball - Cambridge MIT - MAC Today 10/8 · 9PM - 10PM $16/player Coed Skills (2) 6v6 1 spot",
-      "day": "Tuesday",
-      "time": "9:00pm",
-      "location": "MAC",
-      "url": "https://www.volosports.com/game/baa210fd-4058-4c7d-b6dd-95c8921e4072",
       "spots": 1
     }
   ],

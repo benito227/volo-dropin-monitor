@@ -21,12 +21,12 @@
     },
     {
       "id": "ef959a83971eb84dcc0f21b3",
-      "title": "Drop In Sunday Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth 10/11 · 10AM - 11AM $16/player Open All Skills 7v7 5 spots",
+      "title": "Drop In Sunday Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth 10/11 · 10AM - 11AM $16/player Open All Skills 7v7 4 spots",
       "day": "Sunday",
       "time": "10:00am",
       "location": "Wentworth",
       "url": "https://www.volosports.com/game/7c8fc4b4-dc65-46fa-a299-406603e2bdb9",
-      "spots": 5
+      "spots": 4
     },
     {
       "id": "b7cdaa98ffd27e35629caaff",
@@ -62,6 +62,15 @@
       "time": "4:00pm",
       "location": "Somerville Glen Park",
       "url": "https://www.volosports.com/game/059a470c-3be1-483d-90f0-037f7dcf522d",
+      "spots": 2
+    },
+    {
+      "id": "be477bd2647d47e1cf28ffb1",
+      "title": "Drop In Sunday Sunday - Soccer - Boston - Charles/MGH Ebersol Field 10/11 · 7PM - 8PM $16/player Coed All Skills 7v7 2 spots",
+      "day": "Sunday",
+      "time": "7:00pm",
+      "location": "Charles/MGH Ebersol Field",
+      "url": "https://www.volosports.com/game/04df49b7-8e82-4efc-b096-81378b7caef7",
       "spots": 2
     },
     {

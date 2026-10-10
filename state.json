@@ -56,6 +56,15 @@
       "spots": 5
     },
     {
+      "id": "5b641478c4f32b2ead331b56",
+      "title": "Drop In Tomorrow Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Tomorrow 10/11 · 12PM - 1PM $16/player Open All Skills 7v7 3 spots",
+      "day": "Sunday",
+      "time": "12:00pm",
+      "location": "Wentworth",
+      "url": "https://www.volosports.com/game/39c69718-64e8-4055-9222-b4416a9a08de",
+      "spots": 3
+    },
+    {
       "id": "b05568a20c6d170ae7b47287",
       "title": "Drop In Tomorrow Sunday - Coed Flag Football - Cambridge Ahern Field Tomorrow 10/11 · 9:30AM - 10:30AM $16/player Coed All Skills 7v7 2 spots",
       "day": "Sunday",
@@ -63,15 +72,6 @@
       "location": "Cambridge Ahern Field",
       "url": "https://www.volosports.com/game/e034a283-1c03-4160-9413-14c62c963897",
       "spots": 2
-    },
-    {
-      "id": "e3dea661a8b0020546c2fcb3",
-      "title": "Drop In Thursday Thursday - Beach Volleyball - Somerville Club Volo at Assembly Row 10/15 · 6PM - 6:55PM $16/player Coed Skills (2) 6v6 1 spot",
-      "day": "Thursday",
-      "time": "6:00pm",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/b8d020f4-b4d4-41d5-a0bc-45dbcb634b82",
-      "spots": 1
     }
   ],
   "lastErrorDate": null,

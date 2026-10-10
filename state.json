@@ -2,6 +2,15 @@
   "initialized": true,
   "current": [
     {
+      "id": "c1994d0b2f0e35838afc6acc",
+      "title": "Drop In Friday Flip Cup Counts Friday - Volleyball - Somerville Club Volo at Assembly Row 10/16 · 6PM - 7:30PM $16/player Open Social/Beginner 6v6 4 spots",
+      "day": "Friday",
+      "time": "6:00pm",
+      "location": "Somerville Club Volo at Assembly Row",
+      "url": "https://www.volosports.com/game/542af392-4a11-410d-aaa6-bc35e9b101d2",
+      "spots": 4
+    },
+    {
       "id": "11864286b38a443af6f32707",
       "title": "Drop In Monday Monday - Coed Flag Football - South Boston Moakley Park 10/12 · 10PM - 11PM $16/player Coed Social/Beginner 7v7 3 spots",
       "day": "Monday",
@@ -21,12 +30,12 @@
     },
     {
       "id": "c70773ac5fc978f3ff519aca",
-      "title": "Drop In Tomorrow Sunday - Basketball - Cambridge Shady Hill School Tomorrow 10/11 · 12PM - 1PM $16/player Men All Skills 5v5 2 spots",
+      "title": "Drop In Tomorrow Sunday - Basketball - Cambridge Shady Hill School Tomorrow 10/11 · 12PM - 1PM $16/player Men All Skills 5v5 3 spots",
       "day": "Sunday",
       "time": "12:00pm",
       "location": "Cambridge Shady Hill School",
       "url": "https://www.volosports.com/game/3874f6f4-4fbe-4da5-91c2-5c01843e01f2",
-      "spots": 2
+      "spots": 3
     },
     {
       "id": "a7012b9c1ada66ad4e8eaa73",
@@ -36,15 +45,6 @@
       "location": "South Boston Carson Beach",
       "url": "https://www.volosports.com/game/fb5edbf7-080a-446d-951e-ba76b3b660ef",
       "spots": 7
-    },
-    {
-      "id": "5b641478c4f32b2ead331b56",
-      "title": "Drop In Tomorrow Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Tomorrow 10/11 · 12PM - 1PM $16/player Open All Skills 7v7 3 spots",
-      "day": "Sunday",
-      "time": "12:00pm",
-      "location": "Wentworth",
-      "url": "https://www.volosports.com/game/39c69718-64e8-4055-9222-b4416a9a08de",
-      "spots": 3
     },
     {
       "id": "b05568a20c6d170ae7b47287",

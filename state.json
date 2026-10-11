@@ -29,6 +29,15 @@
       "spots": 2
     },
     {
+      "id": "7217587894b215068b88d302",
+      "title": "Drop In Today Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 10/11 · 11AM - 12PM $16/player Open All Skills 7v7 1 spot",
+      "day": "Sunday",
+      "time": "11:00am",
+      "location": "Wentworth",
+      "url": "https://www.volosports.com/game/a1afb352-e40e-454d-924d-cff6d42a68bb",
+      "spots": 1
+    },
+    {
       "id": "97054ed21910247af75cbf99",
       "title": "Drop In Today Sunday - Flag Football - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 10/11 · 11AM - 12PM $16/player Coed All Skills 7v7 2 spots",
       "day": "Sunday",
@@ -66,12 +75,12 @@
     },
     {
       "id": "b05568a20c6d170ae7b47287",
-      "title": "Drop In Today Sunday - Coed Flag Football - Cambridge Ahern Field Today 10/11 · 9:30AM - 10:30AM $16/player Coed All Skills 7v7 2 spots",
+      "title": "Drop In Today Sunday - Coed Flag Football - Cambridge Ahern Field Today 10/11 · 9:30AM - 10:30AM $16/player Coed All Skills 7v7 3 spots",
       "day": "Sunday",
       "time": "9:30am",
       "location": "Cambridge Ahern Field",
       "url": "https://www.volosports.com/game/e034a283-1c03-4160-9413-14c62c963897",
-      "spots": 2
+      "spots": 3
     }
   ],
   "lastErrorDate": null,

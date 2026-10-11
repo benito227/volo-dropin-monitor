@@ -2,6 +2,15 @@
   "initialized": true,
   "current": [
     {
+      "id": "c1994d0b2f0e35838afc6acc",
+      "title": "Drop In Friday Flip Cup Counts Friday - Volleyball - Somerville Club Volo at Assembly Row 10/16 · 6PM - 7:30PM $16/player Open Social/Beginner 6v6 4 spots",
+      "day": "Friday",
+      "time": "6:00pm",
+      "location": "Somerville Club Volo at Assembly Row",
+      "url": "https://www.volosports.com/game/542af392-4a11-410d-aaa6-bc35e9b101d2",
+      "spots": 4
+    },
+    {
       "id": "11864286b38a443af6f32707",
       "title": "Drop In Tomorrow Monday - Coed Flag Football - South Boston Moakley Park Tomorrow 10/12 · 10PM - 11PM $16/player Coed Social/Beginner 7v7 3 spots",
       "day": "Monday",
@@ -9,33 +18,6 @@
       "location": "South Boston Moakley Park",
       "url": "https://www.volosports.com/game/ab42e668-e077-422f-aa0a-4a8c69c28567",
       "spots": 3
-    },
-    {
-      "id": "2425385de217444d60a945fb",
-      "title": "Drop In Today Sunday - Beach Volleyball - South Boston Carson Beach Today 10/11 · 11AM - 12PM $11/player Coed Skills (2) 6v6 2 spots",
-      "day": "Sunday",
-      "time": "11:00am",
-      "location": "South Boston Carson Beach",
-      "url": "https://www.volosports.com/game/929f1e28-0285-460a-a972-6e98fc8d1bc0",
-      "spots": 2
-    },
-    {
-      "id": "a647d8048a60c1e068ba60e4",
-      "title": "Drop In Today Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 10/11 · 11AM - 12PM $16/player Open All Skills 7v7 2 spots",
-      "day": "Sunday",
-      "time": "11:00am",
-      "location": "Wentworth",
-      "url": "https://www.volosports.com/game/714e6df4-818a-432e-9eaf-3119d041131e",
-      "spots": 2
-    },
-    {
-      "id": "97054ed21910247af75cbf99",
-      "title": "Drop In Today Sunday - Flag Football - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 10/11 · 11AM - 12PM $16/player Coed All Skills 7v7 4 spots",
-      "day": "Sunday",
-      "time": "11:00am",
-      "location": "Wentworth",
-      "url": "https://www.volosports.com/game/cc266b45-7bf2-4700-ab0e-3dae6d49dab1",
-      "spots": 4
     },
     {
       "id": "a7012b9c1ada66ad4e8eaa73",
@@ -72,6 +54,24 @@
       "location": "Charles/MGH Ebersol Field",
       "url": "https://www.volosports.com/game/6aa26152-ecb7-4749-80d4-32ae279ebd02",
       "spots": 2
+    },
+    {
+      "id": "be477bd2647d47e1cf28ffb1",
+      "title": "Drop In Today Sunday - Soccer - Boston - Charles/MGH Ebersol Field Today 10/11 · 7PM - 8PM $16/player Coed All Skills 7v7 2 spots",
+      "day": "Sunday",
+      "time": "7:00pm",
+      "location": "Charles/MGH Ebersol Field",
+      "url": "https://www.volosports.com/game/04df49b7-8e82-4efc-b096-81378b7caef7",
+      "spots": 2
+    },
+    {
+      "id": "898d7bfceb297b8b96f117a4",
+      "title": "Drop In Today Sunday - Soccer - Boston - Charles/MGH Ebersol Field Today 10/11 · 9PM - 10PM $16/player Coed All Skills 7v7 3 spots",
+      "day": "Sunday",
+      "time": "9:00pm",
+      "location": "Charles/MGH Ebersol Field",
+      "url": "https://www.volosports.com/game/9b1fcf8a-df8a-45eb-a421-721bb77c8d5e",
+      "spots": 3
     }
   ],
   "lastErrorDate": null,

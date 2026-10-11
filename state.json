@@ -12,12 +12,12 @@
     },
     {
       "id": "ef959a83971eb84dcc0f21b3",
-      "title": "Drop In Today Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 10/11 · 10AM - 11AM $16/player Open All Skills 7v7 1 spot",
+      "title": "Drop In Today Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 10/11 · 10AM - 11AM $16/player Open All Skills 7v7 2 spots",
       "day": "Sunday",
       "time": "10:00am",
       "location": "Wentworth",
       "url": "https://www.volosports.com/game/7c8fc4b4-dc65-46fa-a299-406603e2bdb9",
-      "spots": 1
+      "spots": 2
     },
     {
       "id": "008679b89cb9764e83a407c6",
@@ -72,6 +72,15 @@
       "location": "Wentworth",
       "url": "https://www.volosports.com/game/30a39847-877f-48a5-ae72-cc07cabcd649",
       "spots": 4
+    },
+    {
+      "id": "1b1b7e324e174c4a938930f1",
+      "title": "Drop In Today Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 10/11 · 12PM - 1PM $16/player Open All Skills 7v7 1 spot",
+      "day": "Sunday",
+      "time": "12:00pm",
+      "location": "Wentworth",
+      "url": "https://www.volosports.com/game/4c1ef1e5-4f0e-43e6-be88-ca471d60d082",
+      "spots": 1
     },
     {
       "id": "0967e19b6bb136dd9648da5a",

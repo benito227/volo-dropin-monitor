@@ -3,7 +3,7 @@
   "current": [
     {
       "id": "11864286b38a443af6f32707",
-      "title": "Drop In Monday Monday - Coed Flag Football - South Boston Moakley Park 10/12 · 10PM - 11PM $16/player Coed Social/Beginner 7v7 3 spots",
+      "title": "Drop In Tomorrow Monday - Coed Flag Football - South Boston Moakley Park Tomorrow 10/12 · 10PM - 11PM $16/player Coed Social/Beginner 7v7 3 spots",
       "day": "Monday",
       "time": "10:00pm",
       "location": "South Boston Moakley Park",
@@ -12,7 +12,7 @@
     },
     {
       "id": "e75043b0797e9b2ad6ecd0af",
-      "title": "Drop In Monday Monday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth 10/12 · 9PM - 10PM $16/player Coed Skills (2) 7v7 1 spot",
+      "title": "Drop In Tomorrow Monday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Tomorrow 10/12 · 9PM - 10PM $16/player Coed Skills (2) 7v7 1 spot",
       "day": "Monday",
       "time": "9:00pm",
       "location": "Wentworth",
@@ -21,7 +21,7 @@
     },
     {
       "id": "008679b89cb9764e83a407c6",
-      "title": "Drop In Tomorrow Sunday - Flag Football - Boston - Fenway/Kenmore Sweeney Field - Wentworth Tomorrow 10/11 · 10AM - 11AM $16/player Coed All Skills 7v7 5 spots",
+      "title": "Drop In Today Sunday - Flag Football - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 10/11 · 10AM - 11AM $16/player Coed All Skills 7v7 5 spots",
       "day": "Sunday",
       "time": "10:00am",
       "location": "Wentworth",
@@ -29,17 +29,8 @@
       "spots": 5
     },
     {
-      "id": "7a0078adeac7a50fc3fdaf0e",
-      "title": "Drop In Tomorrow Sunday - Basketball - Cambridge Shady Hill School Tomorrow 10/11 · 11AM - 12PM $16/player Men All Skills 5v5 1 spot",
-      "day": "Sunday",
-      "time": "11:00am",
-      "location": "Cambridge Shady Hill School",
-      "url": "https://www.volosports.com/game/f00b30fb-fb85-448a-be61-8a85fbb20cb3",
-      "spots": 1
-    },
-    {
       "id": "2425385de217444d60a945fb",
-      "title": "Drop In Tomorrow Sunday - Beach Volleyball - South Boston Carson Beach Tomorrow 10/11 · 11AM - 12PM $11/player Coed Skills (2) 6v6 2 spots",
+      "title": "Drop In Today Sunday - Beach Volleyball - South Boston Carson Beach Today 10/11 · 11AM - 12PM $11/player Coed Skills (2) 6v6 2 spots",
       "day": "Sunday",
       "time": "11:00am",
       "location": "South Boston Carson Beach",
@@ -48,7 +39,7 @@
     },
     {
       "id": "97054ed21910247af75cbf99",
-      "title": "Drop In Tomorrow Sunday - Flag Football - Boston - Fenway/Kenmore Sweeney Field - Wentworth Tomorrow 10/11 · 11AM - 12PM $16/player Coed All Skills 7v7 2 spots",
+      "title": "Drop In Today Sunday - Flag Football - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 10/11 · 11AM - 12PM $16/player Coed All Skills 7v7 2 spots",
       "day": "Sunday",
       "time": "11:00am",
       "location": "Wentworth",
@@ -57,7 +48,7 @@
     },
     {
       "id": "a7012b9c1ada66ad4e8eaa73",
-      "title": "Drop In Tomorrow Sunday - Beach Volleyball - South Boston Carson Beach Tomorrow 10/11 · 12PM - 1PM $11/player Coed Skills (2) 6v6 5 spots",
+      "title": "Drop In Today Sunday - Beach Volleyball - South Boston Carson Beach Today 10/11 · 12PM - 1PM $11/player Coed Skills (2) 6v6 5 spots",
       "day": "Sunday",
       "time": "12:00pm",
       "location": "South Boston Carson Beach",
@@ -66,7 +57,7 @@
     },
     {
       "id": "ee550b73b15ae03e2b3c5284",
-      "title": "Drop In Tomorrow Sunday - Flag Football - Boston - Fenway/Kenmore Sweeney Field - Wentworth Tomorrow 10/11 · 12PM - 1PM $16/player Coed All Skills 7v7 4 spots",
+      "title": "Drop In Today Sunday - Flag Football - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 10/11 · 12PM - 1PM $16/player Coed All Skills 7v7 4 spots",
       "day": "Sunday",
       "time": "12:00pm",
       "location": "Wentworth",
@@ -75,7 +66,7 @@
     },
     {
       "id": "0967e19b6bb136dd9648da5a",
-      "title": "Drop In Tomorrow Sunday - Soccer - Boston - Charles/MGH Ebersol Field Tomorrow 10/11 · 5PM - 6PM $16/player Coed All Skills 7v7 2 spots",
+      "title": "Drop In Today Sunday - Soccer - Boston - Charles/MGH Ebersol Field Today 10/11 · 5PM - 6PM $16/player Coed All Skills 7v7 2 spots",
       "day": "Sunday",
       "time": "5:00pm",
       "location": "Charles/MGH Ebersol Field",
@@ -84,7 +75,7 @@
     },
     {
       "id": "b05568a20c6d170ae7b47287",
-      "title": "Drop In Tomorrow Sunday - Coed Flag Football - Cambridge Ahern Field Tomorrow 10/11 · 9:30AM - 10:30AM $16/player Coed All Skills 7v7 2 spots",
+      "title": "Drop In Today Sunday - Coed Flag Football - Cambridge Ahern Field Today 10/11 · 9:30AM - 10:30AM $16/player Coed All Skills 7v7 2 spots",
       "day": "Sunday",
       "time": "9:30am",
       "location": "Cambridge Ahern Field",

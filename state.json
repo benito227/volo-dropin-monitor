@@ -48,12 +48,21 @@
     },
     {
       "id": "33ce30e586a6e385651c6334",
-      "title": "Drop In Tomorrow Tuesday - Soccer - Boston - Charles/MGH Ebersol Field Tomorrow 10/13 · 7PM - 8PM $16/player Coed All Skills 7v7 2 spots",
+      "title": "Drop In Tomorrow Tuesday - Soccer - Boston - Charles/MGH Ebersol Field Tomorrow 10/13 · 7PM - 8PM $16/player Coed All Skills 7v7 1 spot",
       "day": "Tuesday",
       "time": "7:00pm",
       "location": "Charles/MGH Ebersol Field",
       "url": "https://www.volosports.com/game/fb89ae99-f932-4f74-a013-356bb080ab54",
-      "spots": 2
+      "spots": 1
+    },
+    {
+      "id": "0b5c1a36059d703147f3fbcb",
+      "title": "Drop In Tomorrow Tuesday - Coed 7v7 Soccer - Fenway/Kenmore Sweeney Field - Wentworth Tomorrow 10/13 · 7PM - 8PM $16/player Coed Skills (2) 7v7 3 spots",
+      "day": "Tuesday",
+      "time": "7:00pm",
+      "location": "Wentworth",
+      "url": "https://www.volosports.com/game/73268386-01d4-40ba-a1bd-2b6945e1a751",
+      "spots": 3
     }
   ],
   "lastErrorDate": null,

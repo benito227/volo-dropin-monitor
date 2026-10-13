@@ -47,15 +47,6 @@
       "spots": 4
     },
     {
-      "id": "0b5c1a36059d703147f3fbcb",
-      "title": "Drop In Today Tuesday - Coed 7v7 Soccer - Fenway/Kenmore Sweeney Field - Wentworth Today 10/13 · 7PM - 8PM $16/player Coed Skills (2) 7v7 1 spot",
-      "day": "Tuesday",
-      "time": "7:00pm",
-      "location": "Wentworth",
-      "url": "https://www.volosports.com/game/73268386-01d4-40ba-a1bd-2b6945e1a751",
-      "spots": 1
-    },
-    {
       "id": "9beff23558fe0cc1e4f2461a",
       "title": "Drop In Today Tuesday - Men's 7v7 Soccer - Fenway Sweeney Field - Wentworth Today 10/13 · 7PM - 8PM $16/player Men All Skills 7v7 2 spots",
       "day": "Tuesday",
@@ -71,6 +62,15 @@
       "time": "8:30pm",
       "location": "South Boston Moakley Park",
       "url": "https://www.volosports.com/game/c88623d5-7fb5-471c-bbb5-b711b8e276a1",
+      "spots": 1
+    },
+    {
+      "id": "88a109dce4f9b1f5aa896569",
+      "title": "Drop In Tomorrow Turf Wednesday - Coed Flag Football - Fenway Sweeney Field - Wentworth Tomorrow 10/14 · 6PM - 7PM $16/player Coed All Skills 7v7 1 spot",
+      "day": "Wednesday",
+      "time": "6:00pm",
+      "location": "Wentworth",
+      "url": "https://www.volosports.com/game/3e709820-7914-43d4-a27a-72f3ce9b3120",
       "spots": 1
     },
     {

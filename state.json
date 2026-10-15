@@ -11,6 +11,15 @@
       "spots": 3
     },
     {
+      "id": "a83c80d66f932892a848eedd",
+      "title": "Drop In Sunday Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth 10/18 · 1PM - 2PM $16/player Open All Skills 7v7 2 spots",
+      "day": "Sunday",
+      "time": "1:00pm",
+      "location": "Wentworth",
+      "url": "https://www.volosports.com/game/048d9bfe-d8e8-4b46-ada4-50059deb8f49",
+      "spots": 2
+    },
+    {
       "id": "8726eb59e6490508dca95ce4",
       "title": "Drop In Sunday Sunday - Flag Football - Boston - Fenway/Kenmore Sweeney Field - Wentworth 10/18 · 10AM - 11AM $16/player Coed All Skills 7v7 5 spots",
       "day": "Sunday",
@@ -44,24 +53,6 @@
       "time": "8:00pm",
       "location": "Somerville Healey School",
       "url": "https://www.volosports.com/game/f355bb6d-8d09-4d66-a534-42a0dbf3d0a0",
-      "spots": 3
-    },
-    {
-      "id": "33b3a351eb344fe62b77f589",
-      "title": "Drop In Today Thursday - Basketball - Cambridge Shady Hill School Today 10/15 · 9PM - 9:50PM $16/player Coed All Skills 5v5 1 spot",
-      "day": "Thursday",
-      "time": "9:00pm",
-      "location": "Cambridge Shady Hill School",
-      "url": "https://www.volosports.com/game/7ab93527-8db5-4649-94e9-0914c064deb1",
-      "spots": 1
-    },
-    {
-      "id": "e28afae81da5b456b0029233",
-      "title": "Drop In Tuesday Tuesday / Thursday - 8v8 Coed Soccer - Somerville Healey School 10/20 · 9PM - 10PM $16/player Coed All Skills 8v8 3 spots",
-      "day": "Tuesday",
-      "time": "9:00pm",
-      "location": "Somerville Healey School",
-      "url": "https://www.volosports.com/game/baf16bc9-8af6-4e77-9c16-d45ef167b8f5",
       "spots": 3
     }
   ],

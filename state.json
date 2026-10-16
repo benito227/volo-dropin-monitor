@@ -2,15 +2,6 @@
   "initialized": true,
   "current": [
     {
-      "id": "c1994d0b2f0e35838afc6acc",
-      "title": "Drop In Today Flip Cup Counts Friday - Volleyball - Somerville Club Volo at Assembly Row Today 10/16 · 6PM - 7:30PM $16/player Open Social/Beginner 6v6 2 spots",
-      "day": "Friday",
-      "time": "6:00pm",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/542af392-4a11-410d-aaa6-bc35e9b101d2",
-      "spots": 2
-    },
-    {
       "id": "bdf94f5271e9dad6924b91af",
       "title": "Drop In Monday Monday - Beach Volleyball - Somerville Club Volo at Assembly Row 11/2 · 8:45PM - 9:40PM $16/player Coed Skills (2) 6v6 4 spots",
       "day": "Monday",
@@ -45,6 +36,15 @@
       "location": "South Boston Carson Beach",
       "url": "https://www.volosports.com/game/4791d9fb-ab31-414d-a6fd-ba557be226a3",
       "spots": 5
+    },
+    {
+      "id": "912b1fcb43629ad789befe01",
+      "title": "Drop In Tuesday Grass Tuesday - Grass Volleyball - South Boston Moakley Park 11/3 · 7:30PM - 8:30PM $11/player Coed Social/Beginner 6v6 2 spots",
+      "day": "Tuesday",
+      "time": "7:30pm",
+      "location": "South Boston Moakley Park",
+      "url": "https://www.volosports.com/game/c88623d5-7fb5-471c-bbb5-b711b8e276a1",
+      "spots": 2
     }
   ],
   "lastErrorDate": null,

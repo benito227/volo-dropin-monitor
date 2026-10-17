@@ -2,15 +2,6 @@
   "initialized": true,
   "current": [
     {
-      "id": "3225c4d22fa318a538fee5c9",
-      "title": "Drop In Today Saturday - Volleyball - Cambridge Cambridge Rindge & Latin School - War Memorial Recreational Center Today 10/17 · 2:30PM - 3:30PM $16/player Open Skills (3) 6v6 1 spot",
-      "day": "Saturday",
-      "time": "2:30pm",
-      "location": "War Memorial Recreational Center",
-      "url": "https://www.volosports.com/game/8d17b11a-0b22-4e57-925a-a0ff8be84546",
-      "spots": 1
-    },
-    {
       "id": "8726eb59e6490508dca95ce4",
       "title": "Drop In Tomorrow Sunday - Flag Football - Boston - Fenway/Kenmore Sweeney Field - Wentworth Tomorrow 10/18 · 10AM - 11AM $16/player Coed All Skills 7v7 4 spots",
       "day": "Sunday",
@@ -45,15 +36,6 @@
       "location": "South Boston Carson Beach",
       "url": "https://www.volosports.com/game/4791d9fb-ab31-414d-a6fd-ba557be226a3",
       "spots": 5
-    },
-    {
-      "id": "4eafbe7f41b19775f13a0894",
-      "title": "Drop In Tomorrow Sunday - Soccer - Boston - Charles/MGH Ebersol Field Tomorrow 10/18 · 6PM - 7PM $16/player Coed All Skills 7v7 2 spots",
-      "day": "Sunday",
-      "time": "6:00pm",
-      "location": "Charles/MGH Ebersol Field",
-      "url": "https://www.volosports.com/game/b7933ec4-a959-4b16-9356-fe6e2f5176c6",
-      "spots": 2
     },
     {
       "id": "0c2ef364fbb479d941db3ce3",

@@ -3,12 +3,12 @@
   "current": [
     {
       "id": "a83c80d66f932892a848eedd",
-      "title": "Drop In Today Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 10/18 · 1PM - 2PM $16/player Open All Skills 7v7 1 spot",
+      "title": "Drop In Today Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 10/18 · 1PM - 2PM $16/player Open All Skills 7v7 2 spots",
       "day": "Sunday",
       "time": "1:00pm",
       "location": "Wentworth",
       "url": "https://www.volosports.com/game/048d9bfe-d8e8-4b46-ada4-50059deb8f49",
-      "spots": 1
+      "spots": 2
     },
     {
       "id": "685f32b360d0e3e25b52547e",
@@ -29,22 +29,13 @@
       "spots": 4
     },
     {
-      "id": "7dc077ca39e5769c2dc04ea9",
-      "title": "Drop In Today Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 10/18 · 12PM - 1PM $16/player Open All Skills 7v7 1 spot",
-      "day": "Sunday",
-      "time": "12:00pm",
-      "location": "Wentworth",
-      "url": "https://www.volosports.com/game/9dcf5891-2623-4171-b6c9-4f39b9b76366",
-      "spots": 1
-    },
-    {
       "id": "aa675ce4ab720c1ebdcd84cb",
-      "title": "Drop In Today Sunday - Soccer - Somerville Glen Park Today 10/18 · 5PM - 6PM $16/player Coed All Skills 8v8 5 spots",
+      "title": "Drop In Today Sunday - Soccer - Somerville Glen Park Today 10/18 · 5PM - 6PM $16/player Coed All Skills 8v8 4 spots",
       "day": "Sunday",
       "time": "5:00pm",
       "location": "Somerville Glen Park",
       "url": "https://www.volosports.com/game/5dc89d89-3d20-4512-a886-6bda87a6e7be",
-      "spots": 5
+      "spots": 4
     },
     {
       "id": "4eafbe7f41b19775f13a0894",

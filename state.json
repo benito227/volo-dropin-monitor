@@ -54,6 +54,24 @@
       "location": "Fenway Simmons University",
       "url": "https://www.volosports.com/game/6eef80a0-6647-4837-b21a-27b44fd03d7d",
       "spots": 1
+    },
+    {
+      "id": "4eafbe7f41b19775f13a0894",
+      "title": "Drop In Today Sunday - Soccer - Boston - Charles/MGH Ebersol Field Today 10/18 · 6PM - 7PM $16/player Coed All Skills 7v7 3 spots",
+      "day": "Sunday",
+      "time": "6:00pm",
+      "location": "Charles/MGH Ebersol Field",
+      "url": "https://www.volosports.com/game/b7933ec4-a959-4b16-9356-fe6e2f5176c6",
+      "spots": 3
+    },
+    {
+      "id": "deaedc0daf6e2e9e88b42b4a",
+      "title": "Drop In Today Sunday - Soccer - Boston - Charles/MGH Ebersol Field Today 10/18 · 7PM - 8PM $16/player Coed All Skills 7v7 1 spot",
+      "day": "Sunday",
+      "time": "7:00pm",
+      "location": "Charles/MGH Ebersol Field",
+      "url": "https://www.volosports.com/game/df163646-1858-4173-810f-0bfe10c49c81",
+      "spots": 1
     }
   ],
   "lastErrorDate": null,

@@ -11,6 +11,15 @@
       "spots": 4
     },
     {
+      "id": "0b89bf53ea29b1f241dd4975",
+      "title": "Drop In Sunday Sunday - Beach Volleyball - South Boston Carson Beach 10/25 · 11AM - 12PM $11/player Coed Skills (2) 6v6 6 spots",
+      "day": "Sunday",
+      "time": "11:00am",
+      "location": "South Boston Carson Beach",
+      "url": "https://www.volosports.com/game/c8716038-edd4-4ed9-9d1b-38f4013fb1b9",
+      "spots": 6
+    },
+    {
       "id": "aa675ce4ab720c1ebdcd84cb",
       "title": "Drop In Today Sunday - Soccer - Somerville Glen Park Today 10/18 · 5PM - 6PM $16/player Coed All Skills 8v8 3 spots",
       "day": "Sunday",
@@ -36,15 +45,6 @@
       "location": "Charles/MGH Ebersol Field",
       "url": "https://www.volosports.com/game/df163646-1858-4173-810f-0bfe10c49c81",
       "spots": 1
-    },
-    {
-      "id": "912b1fcb43629ad789befe01",
-      "title": "Drop In Tuesday Grass Tuesday - Grass Volleyball - South Boston Moakley Park 11/3 · 7:30PM - 8:30PM $11/player Coed Social/Beginner 6v6 2 spots",
-      "day": "Tuesday",
-      "time": "7:30pm",
-      "location": "South Boston Moakley Park",
-      "url": "https://www.volosports.com/game/c88623d5-7fb5-471c-bbb5-b711b8e276a1",
-      "spots": 2
     }
   ],
   "lastErrorDate": null,

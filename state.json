@@ -12,12 +12,21 @@
     },
     {
       "id": "8f21a9953ad1d96bf23463c2",
-      "title": "Drop In Tomorrow Monday - Beach Volleyball - Somerville Club Volo at Assembly Row Tomorrow 10/19 · 6PM - 6:55PM $16/player Coed Skills (2) 6v6 4 spots",
+      "title": "Drop In Tomorrow Monday - Beach Volleyball - Somerville Club Volo at Assembly Row Tomorrow 10/19 · 6PM - 6:55PM $16/player Coed Skills (2) 6v6 3 spots",
       "day": "Monday",
       "time": "6:00pm",
       "location": "Somerville Club Volo at Assembly Row",
       "url": "https://www.volosports.com/game/5b2a3f79-43c3-495d-83bc-4e10ee808dd7",
-      "spots": 4
+      "spots": 3
+    },
+    {
+      "id": "36a90739a7e69a88e1be4d3a",
+      "title": "Drop In Tomorrow Monday - Coed Flag Football - South Boston Moakley Park Tomorrow 10/19 · 9PM - 10PM $16/player Coed Social/Beginner 7v7 1 spot",
+      "day": "Monday",
+      "time": "9:00pm",
+      "location": "South Boston Moakley Park",
+      "url": "https://www.volosports.com/game/663740bb-59db-4f81-8cfa-c65a11f232bf",
+      "spots": 1
     },
     {
       "id": "0b89bf53ea29b1f241dd4975",

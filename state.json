@@ -2,6 +2,15 @@
   "initialized": true,
   "current": [
     {
+      "id": "270cff673ccbb1f525a84c7e",
+      "title": "Drop In Friday Flip Cup Counts Friday - Volleyball - Somerville Club Volo at Assembly Row 10/23 · 7:30PM - 9PM $16/player Open Social/Beginner 6v6 2 spots",
+      "day": "Friday",
+      "time": "7:30pm",
+      "location": "Somerville Club Volo at Assembly Row",
+      "url": "https://www.volosports.com/game/16b4c6b6-e13a-42f6-b24b-8337a4da50b2",
+      "spots": 2
+    },
+    {
       "id": "99a0b8b14800baa83f02d090",
       "title": "Drop In Tomorrow Monday - Coed Flag Football - South Boston Moakley Park Tomorrow 10/19 · 10PM - 11PM $16/player Coed Social/Beginner 7v7 2 spots",
       "day": "Monday",
@@ -17,6 +26,15 @@
       "time": "6:55pm",
       "location": "Somerville Club Volo at Assembly Row",
       "url": "https://www.volosports.com/game/be742343-989e-4888-8f9e-5770e113e597",
+      "spots": 1
+    },
+    {
+      "id": "2fbb4d2404794e1bd6244c6e",
+      "title": "Drop In Tomorrow Monday - Beach Volleyball - Somerville Club Volo at Assembly Row Tomorrow 10/19 · 7:50PM - 8:45PM $16/player Coed Skills (2) 6v6 1 spot",
+      "day": "Monday",
+      "time": "7:50pm",
+      "location": "Somerville Club Volo at Assembly Row",
+      "url": "https://www.volosports.com/game/090929e6-f44e-427b-b764-68e9fb14f986",
       "spots": 1
     },
     {

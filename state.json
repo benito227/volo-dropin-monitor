@@ -1,52 +1,6 @@
 {
   "initialized": true,
-  "current": [
-    {
-      "id": "99a0b8b14800baa83f02d090",
-      "title": "Drop In Tomorrow Monday - Coed Flag Football - South Boston Moakley Park Tomorrow 10/19 · 10PM - 11PM $16/player Coed Social/Beginner 7v7 2 spots",
-      "day": "Monday",
-      "time": "10:00pm",
-      "location": "South Boston Moakley Park",
-      "url": "https://www.volosports.com/game/c3a70902-70ea-4f30-8f49-6581da8aa5f6",
-      "spots": 2
-    },
-    {
-      "id": "8f21a9953ad1d96bf23463c2",
-      "title": "Drop In Tomorrow Monday - Beach Volleyball - Somerville Club Volo at Assembly Row Tomorrow 10/19 · 6PM - 6:55PM $16/player Coed Skills (2) 6v6 3 spots",
-      "day": "Monday",
-      "time": "6:00pm",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/5b2a3f79-43c3-495d-83bc-4e10ee808dd7",
-      "spots": 3
-    },
-    {
-      "id": "0b89bf53ea29b1f241dd4975",
-      "title": "Drop In Sunday Sunday - Beach Volleyball - South Boston Carson Beach 10/25 · 11AM - 12PM $11/player Coed Skills (2) 6v6 6 spots",
-      "day": "Sunday",
-      "time": "11:00am",
-      "location": "South Boston Carson Beach",
-      "url": "https://www.volosports.com/game/c8716038-edd4-4ed9-9d1b-38f4013fb1b9",
-      "spots": 6
-    },
-    {
-      "id": "4da68df0dec804a30aeae0fb",
-      "title": "Drop In Tuesday Tuesday - Coed 5v5 Basketball - Charlestown Charlestown YMCA 10/20 · 6PM - 7PM $16/player Coed All Skills 5v5 2 spots",
-      "day": "Tuesday",
-      "time": "6:00pm",
-      "location": "Charlestown Charlestown YMCA",
-      "url": "https://www.volosports.com/game/00f411f8-e4ff-4a84-8aca-4869c25227f3",
-      "spots": 2
-    },
-    {
-      "id": "266e96e9501ed0bc3a3d51fa",
-      "title": "Drop In Tuesday Tuesday - Coed 7v7 Soccer - Fenway/Kenmore Sweeney Field - Wentworth 10/20 · 6PM - 7PM $16/player Coed Skills (2) 7v7 2 spots",
-      "day": "Tuesday",
-      "time": "6:00pm",
-      "location": "Wentworth",
-      "url": "https://www.volosports.com/game/1a27ff3b-b554-4279-80be-cf4ba0316508",
-      "spots": 2
-    }
-  ],
+  "current": [],
   "lastErrorDate": null,
   "keepaliveMonth": "2026-10"
 }

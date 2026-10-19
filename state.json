@@ -20,15 +20,6 @@
       "spots": 2
     },
     {
-      "id": "edc992f5e5be31d01ede429d",
-      "title": "Drop In Today Monday - Basketball - Cambridge Shady Hill School Today 10/19 · 7:20PM - 8:10PM $16/player Coed All Skills 5v5 2 spots",
-      "day": "Monday",
-      "time": "7:20pm",
-      "location": "Cambridge Shady Hill School",
-      "url": "https://www.volosports.com/game/2273be0e-d96f-4d64-bb95-5827572647a6",
-      "spots": 2
-    },
-    {
       "id": "460ef04846213b96bf004a9b",
       "title": "Drop In Today Monday - Coed Flag Football - South Boston Moakley Park Today 10/19 · 8PM - 9PM $16/player Coed Social/Beginner 7v7 3 spots",
       "day": "Monday",
@@ -81,6 +72,15 @@
       "location": "Wentworth",
       "url": "https://www.volosports.com/game/3bfdfd3d-a8ec-45df-8bf8-2c12302f5a2d",
       "spots": 2
+    },
+    {
+      "id": "e28afae81da5b456b0029233",
+      "title": "Drop In Tomorrow Tuesday / Thursday - 8v8 Coed Soccer - Somerville Healey School Tomorrow 10/20 · 9PM - 10PM $16/player Coed All Skills 8v8 3 spots",
+      "day": "Tuesday",
+      "time": "9:00pm",
+      "location": "Somerville Healey School",
+      "url": "https://www.volosports.com/game/baf16bc9-8af6-4e77-9c16-d45ef167b8f5",
+      "spots": 3
     },
     {
       "id": "841f1e45881388d4392a9f47",

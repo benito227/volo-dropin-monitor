@@ -20,15 +20,6 @@
       "spots": 2
     },
     {
-      "id": "2fbb4d2404794e1bd6244c6e",
-      "title": "Drop In Today Monday - Beach Volleyball - Somerville Club Volo at Assembly Row Today 10/19 · 7:50PM - 8:45PM $16/player Coed Skills (2) 6v6 1 spot",
-      "day": "Monday",
-      "time": "7:50pm",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/090929e6-f44e-427b-b764-68e9fb14f986",
-      "spots": 1
-    },
-    {
       "id": "460ef04846213b96bf004a9b",
       "title": "Drop In Today Monday - Coed Flag Football - South Boston Moakley Park Today 10/19 · 8PM - 9PM $16/player Coed Social/Beginner 7v7 3 spots",
       "day": "Monday",
@@ -36,15 +27,6 @@
       "location": "South Boston Moakley Park",
       "url": "https://www.volosports.com/game/cab7d4c1-c75c-485c-825e-443be346cf4e",
       "spots": 3
-    },
-    {
-      "id": "f7f3cf914f7f6122739ec4db",
-      "title": "Drop In Today Monday - Volleyball - Cambridge Cambridge Rindge & Latin School - War Memorial Recreational Center Today 10/19 · 8:15PM - 9:15PM $16/player Coed Skills (3) 6v6 2 spots",
-      "day": "Monday",
-      "time": "8:15pm",
-      "location": "War Memorial Recreational Center",
-      "url": "https://www.volosports.com/game/6f64a93e-9060-47bb-87bd-1cce1bfa0a1b",
-      "spots": 2
     },
     {
       "id": "00615d11f5cc501ec9a554df",
@@ -80,6 +62,15 @@
       "time": "6:00pm",
       "location": "Charlestown Charlestown YMCA",
       "url": "https://www.volosports.com/game/00f411f8-e4ff-4a84-8aca-4869c25227f3",
+      "spots": 4
+    },
+    {
+      "id": "841f1e45881388d4392a9f47",
+      "title": "Drop In Wednesday Wednesday - Beach Volleyball - Somerville Club Volo at Assembly Row 10/21 · 6:55PM - 7:50PM $16/player Coed Skills (3) 6v6 4 spots",
+      "day": "Wednesday",
+      "time": "6:55pm",
+      "location": "Somerville Club Volo at Assembly Row",
+      "url": "https://www.volosports.com/game/aed59198-90de-4fff-acdd-d29e34b27a1c",
       "spots": 4
     }
   ],

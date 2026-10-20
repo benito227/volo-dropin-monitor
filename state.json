@@ -2,15 +2,6 @@
   "initialized": true,
   "current": [
     {
-      "id": "270cff673ccbb1f525a84c7e",
-      "title": "Drop In Friday Flip Cup Counts Friday - Volleyball - Somerville Club Volo at Assembly Row 10/23 · 7:30PM - 9PM $16/player Open Social/Beginner 6v6 3 spots",
-      "day": "Friday",
-      "time": "7:30pm",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/16b4c6b6-e13a-42f6-b24b-8337a4da50b2",
-      "spots": 3
-    },
-    {
       "id": "99f89c398d6218fb738a79e3",
       "title": "Drop In Today Monday, Tuesday - Soccer - Somerville Conway Park Today 10/20 · 8:45PM - 9:45PM $16/player Coed All Skills 7v7 4 spots",
       "day": "Monday",
@@ -71,6 +62,15 @@
       "time": "8:10pm",
       "location": "Cambridge Shady Hill School",
       "url": "https://www.volosports.com/game/fb98a585-4e80-4da1-863c-d346d62a20e6",
+      "spots": 1
+    },
+    {
+      "id": "357be6910f29e62b82d9159e",
+      "title": "Drop In Tomorrow Wednesday, Thursday - Soccer - Somerville Foss Park Tomorrow 10/21 · 9PM - 10PM $16/player Coed All Skills 7v7 1 spot",
+      "day": "Wednesday",
+      "time": "9:00pm",
+      "location": "Somerville Foss Park",
+      "url": "https://www.volosports.com/game/129ac05d-aee9-4fb8-baa9-d8003d61564d",
       "spots": 1
     }
   ],

@@ -11,15 +11,6 @@
       "spots": 3
     },
     {
-      "id": "0b89bf53ea29b1f241dd4975",
-      "title": "Drop In Sunday Sunday - Beach Volleyball - South Boston Carson Beach 10/25 · 11AM - 12PM $11/player Coed Skills (2) 6v6 6 spots",
-      "day": "Sunday",
-      "time": "11:00am",
-      "location": "South Boston Carson Beach",
-      "url": "https://www.volosports.com/game/c8716038-edd4-4ed9-9d1b-38f4013fb1b9",
-      "spots": 6
-    },
-    {
       "id": "9bfae8c306eeee816770a1a5",
       "title": "Drop In Sunday Sunday - Coed Flag Football - Cambridge Ahern Field 10/25 · 9:30AM - 10:30AM $16/player Coed All Skills 7v7 3 spots",
       "day": "Sunday",
@@ -36,6 +27,15 @@
       "location": "Charlestown Charlestown YMCA",
       "url": "https://www.volosports.com/game/00f411f8-e4ff-4a84-8aca-4869c25227f3",
       "spots": 4
+    },
+    {
+      "id": "266e96e9501ed0bc3a3d51fa",
+      "title": "Drop In Today Tuesday - Coed 7v7 Soccer - Fenway/Kenmore Sweeney Field - Wentworth Today 10/20 · 6PM - 7PM $16/player Coed Skills (2) 7v7 2 spots",
+      "day": "Tuesday",
+      "time": "6:00pm",
+      "location": "Wentworth",
+      "url": "https://www.volosports.com/game/1a27ff3b-b554-4279-80be-cf4ba0316508",
+      "spots": 2
     },
     {
       "id": "fa61fe5ee1a56d7ebef2b187",

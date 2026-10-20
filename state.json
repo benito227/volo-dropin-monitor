@@ -12,12 +12,12 @@
     },
     {
       "id": "99f89c398d6218fb738a79e3",
-      "title": "Drop In Today Monday, Tuesday - Soccer - Somerville Conway Park Today 10/20 · 8:45PM - 9:45PM $16/player Coed All Skills 7v7 3 spots",
+      "title": "Drop In Today Monday, Tuesday - Soccer - Somerville Conway Park Today 10/20 · 8:45PM - 9:45PM $16/player Coed All Skills 7v7 1 spot",
       "day": "Monday",
       "time": "8:45pm",
       "location": "Somerville Conway Park",
       "url": "https://www.volosports.com/game/19e69cec-cfec-4ef6-997f-298d98380089",
-      "spots": 3
+      "spots": 1
     },
     {
       "id": "5b1343559cdc99dd329271f0",
@@ -53,6 +53,15 @@
       "time": "9:00pm",
       "location": "MAC",
       "url": "https://www.volosports.com/game/6846fef4-5592-4046-9483-5226a390cdc0",
+      "spots": 1
+    },
+    {
+      "id": "377614c1b9140097f625c668",
+      "title": "Drop In Tomorrow Wednesday - Soccer - Somerville Dilboy Stadium Tomorrow 10/21 · 10PM - 11PM $16/player Coed Skills (2) 7v7 1 spot",
+      "day": "Wednesday",
+      "time": "10:00pm",
+      "location": "Somerville Dilboy Stadium",
+      "url": "https://www.volosports.com/game/5aa55c63-e6d0-4f29-8eb9-ebb9cfc0f71f",
       "spots": 1
     },
     {

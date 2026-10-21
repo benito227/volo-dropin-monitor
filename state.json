@@ -11,15 +11,6 @@
       "spots": 3
     },
     {
-      "id": "9bfae8c306eeee816770a1a5",
-      "title": "Drop In Sunday Sunday - Coed Flag Football - Cambridge Ahern Field 10/25 · 9:30AM - 10:30AM $16/player Coed All Skills 7v7 3 spots",
-      "day": "Sunday",
-      "time": "9:30am",
-      "location": "Cambridge Ahern Field",
-      "url": "https://www.volosports.com/game/fe22d125-4a87-4ae4-8a52-a5c5817804b5",
-      "spots": 3
-    },
-    {
       "id": "0af964d8b1a6f36546ee7989",
       "title": "Drop In Today Wednesday - Basketball - Cambridge Shady Hill School Today 10/21 · 6:30PM - 7:20PM $16/player Women All Skills 5v5 3 spots",
       "day": "Wednesday",
@@ -45,6 +36,15 @@
       "location": "South Boston Moakley Park",
       "url": "https://www.volosports.com/game/f21718ad-6014-4965-92de-ac022d45d81c",
       "spots": 1
+    },
+    {
+      "id": "6671b200a951f2582aae31a5",
+      "title": "Drop In Today Indoor Wednesday - Indoor Volleyball - Chinatown Wang YMCA Today 10/21 · 7:45PM - 8:40PM $16/player Coed Skills (2) 6v6 3 spots",
+      "day": "Wednesday",
+      "time": "7:45pm",
+      "location": "Chinatown Wang YMCA",
+      "url": "https://www.volosports.com/game/d6bb9a89-6640-43f8-b324-15112a6321be",
+      "spots": 3
     },
     {
       "id": "5eed1a42d29d38e6fd8bbde5",

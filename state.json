@@ -2,15 +2,6 @@
   "initialized": true,
   "current": [
     {
-      "id": "270cff673ccbb1f525a84c7e",
-      "title": "Drop In Friday Flip Cup Counts Friday - Volleyball - Somerville Club Volo at Assembly Row 10/23 · 7:30PM - 9PM $16/player Open Social/Beginner 6v6 2 spots",
-      "day": "Friday",
-      "time": "7:30pm",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/16b4c6b6-e13a-42f6-b24b-8337a4da50b2",
-      "spots": 2
-    },
-    {
       "id": "377614c1b9140097f625c668",
       "title": "Drop In Today Wednesday - Soccer - Somerville Dilboy Stadium Today 10/21 · 10PM - 11PM $16/player Coed Skills (2) 7v7 1 spot",
       "day": "Wednesday",
@@ -45,6 +36,15 @@
       "location": "Chinatown Wang YMCA",
       "url": "https://www.volosports.com/game/d6bb9a89-6640-43f8-b324-15112a6321be",
       "spots": 1
+    },
+    {
+      "id": "13ff9c1806bc47d1a4e81c5f",
+      "title": "Drop In Today Wednesday - Coed 7v7 Soccer - Cambridge Danehy Park Today 10/21 · 8PM - 9PM $16/player Coed Skills (2) 7v7 2 spots",
+      "day": "Wednesday",
+      "time": "8:00pm",
+      "location": "Cambridge Danehy Park",
+      "url": "https://www.volosports.com/game/faefb039-c679-4560-8f0f-a24ad8a2fba0",
+      "spots": 2
     },
     {
       "id": "5eed1a42d29d38e6fd8bbde5",

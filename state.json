@@ -11,15 +11,6 @@
       "spots": 2
     },
     {
-      "id": "570d0951c757fba1e08b63eb",
-      "title": "Drop In Monday Monday - Coed Flag Football - South Boston Moakley Park 10/26 · 8PM - 9PM $16/player Coed Social/Beginner 7v7 1 spot",
-      "day": "Monday",
-      "time": "8:00pm",
-      "location": "South Boston Moakley Park",
-      "url": "https://www.volosports.com/game/c7b14f46-11d6-4603-b624-f8a48d735842",
-      "spots": 1
-    },
-    {
       "id": "0b89bf53ea29b1f241dd4975",
       "title": "Drop In Sunday Sunday - Beach Volleyball - South Boston Carson Beach 10/25 · 11AM - 12PM $11/player Coed Skills (2) 6v6 6 spots",
       "day": "Sunday",
@@ -63,6 +54,15 @@
       "location": "Cambridge Danehy Park",
       "url": "https://www.volosports.com/game/faefb039-c679-4560-8f0f-a24ad8a2fba0",
       "spots": 2
+    },
+    {
+      "id": "de2966f9879f19b2ab67224e",
+      "title": "Drop In Today Wednesday - Soccer - Somerville Dilboy Stadium Today 10/21 · 8PM - 9PM $16/player Coed Skills (2) 7v7 1 spot",
+      "day": "Wednesday",
+      "time": "8:00pm",
+      "location": "Somerville Dilboy Stadium",
+      "url": "https://www.volosports.com/game/70b641f7-b8b5-421e-82ad-f9278bac4eac",
+      "spots": 1
     }
   ],
   "lastErrorDate": null,

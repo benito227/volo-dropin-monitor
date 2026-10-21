@@ -2,13 +2,13 @@
   "initialized": true,
   "current": [
     {
-      "id": "377614c1b9140097f625c668",
-      "title": "Drop In Today Wednesday - Soccer - Somerville Dilboy Stadium Today 10/21 · 10PM - 11PM $16/player Coed Skills (2) 7v7 1 spot",
-      "day": "Wednesday",
-      "time": "10:00pm",
-      "location": "Somerville Dilboy Stadium",
-      "url": "https://www.volosports.com/game/5aa55c63-e6d0-4f29-8eb9-ebb9cfc0f71f",
-      "spots": 1
+      "id": "270cff673ccbb1f525a84c7e",
+      "title": "Drop In Friday Flip Cup Counts Friday - Volleyball - Somerville Club Volo at Assembly Row 10/23 · 7:30PM - 9PM $16/player Open Social/Beginner 6v6 2 spots",
+      "day": "Friday",
+      "time": "7:30pm",
+      "location": "Somerville Club Volo at Assembly Row",
+      "url": "https://www.volosports.com/game/16b4c6b6-e13a-42f6-b24b-8337a4da50b2",
+      "spots": 2
     },
     {
       "id": "0af964d8b1a6f36546ee7989",
@@ -54,15 +54,6 @@
       "location": "Fenway Huntington Ave YMCA",
       "url": "https://www.volosports.com/game/fb01b1c7-4f34-4dc7-b7c3-61ef36ae98ea",
       "spots": 1
-    },
-    {
-      "id": "2c7a48dace33aa06665b0bd2",
-      "title": "Drop In Today Wednesday, Thursday - Soccer - Somerville Foss Park Today 10/21 · 9PM - 10PM $16/player Coed All Skills 7v7 2 spots",
-      "day": "Wednesday",
-      "time": "9:00pm",
-      "location": "Somerville Foss Park",
-      "url": "https://www.volosports.com/game/bb261003-69d5-4858-835e-7508de98b2e6",
-      "spots": 2
     }
   ],
   "lastErrorDate": null,

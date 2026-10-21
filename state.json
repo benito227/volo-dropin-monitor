@@ -11,15 +11,6 @@
       "spots": 3
     },
     {
-      "id": "0b89bf53ea29b1f241dd4975",
-      "title": "Drop In Sunday Sunday - Beach Volleyball - South Boston Carson Beach 10/25 · 11AM - 12PM $11/player Coed Skills (2) 6v6 6 spots",
-      "day": "Sunday",
-      "time": "11:00am",
-      "location": "South Boston Carson Beach",
-      "url": "https://www.volosports.com/game/c8716038-edd4-4ed9-9d1b-38f4013fb1b9",
-      "spots": 6
-    },
-    {
       "id": "9bfae8c306eeee816770a1a5",
       "title": "Drop In Sunday Sunday - Coed Flag Football - Cambridge Ahern Field 10/25 · 9:30AM - 10:30AM $16/player Coed All Skills 7v7 3 spots",
       "day": "Sunday",
@@ -27,6 +18,15 @@
       "location": "Cambridge Ahern Field",
       "url": "https://www.volosports.com/game/fe22d125-4a87-4ae4-8a52-a5c5817804b5",
       "spots": 3
+    },
+    {
+      "id": "9c69b2d8344c7d23e33bced9",
+      "title": "Drop In Thursday Thursday - Basketball - Cambridge Shady Hill School 10/22 · 8:10PM - 9PM $16/player Coed All Skills 5v5 1 spot",
+      "day": "Thursday",
+      "time": "8:10pm",
+      "location": "Cambridge Shady Hill School",
+      "url": "https://www.volosports.com/game/9fde9f4c-9ba2-4c4a-ac7c-266cb4e98903",
+      "spots": 1
     },
     {
       "id": "5b1343559cdc99dd329271f0",

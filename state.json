@@ -21,21 +21,30 @@
     },
     {
       "id": "3cd147d50ffc9bb56bfe048b",
-      "title": "Drop In Today Wednesday - Grass Volleyball - South Boston Moakley Park Today 10/21 · 7:30PM - 8:30PM $11/player Coed Skills (2) 6v6 2 spots",
+      "title": "Drop In Today Wednesday - Grass Volleyball - South Boston Moakley Park Today 10/21 · 7:30PM - 8:30PM $11/player Coed Skills (2) 6v6 1 spot",
       "day": "Wednesday",
       "time": "7:30pm",
       "location": "South Boston Moakley Park",
       "url": "https://www.volosports.com/game/f21718ad-6014-4965-92de-ac022d45d81c",
-      "spots": 2
+      "spots": 1
+    },
+    {
+      "id": "0fd6e9537c47bee5169cd745",
+      "title": "Drop In Today Wednesday - Coed 7v7 Soccer - Cambridge Danehy Park Today 10/21 · 8PM - 9PM $16/player Coed Skills (2) 7v7 1 spot",
+      "day": "Wednesday",
+      "time": "8:00pm",
+      "location": "Cambridge Danehy Park",
+      "url": "https://www.volosports.com/game/60978cb1-096e-4655-8620-ff775be2a007",
+      "spots": 1
     },
     {
       "id": "13ff9c1806bc47d1a4e81c5f",
-      "title": "Drop In Today Wednesday - Coed 7v7 Soccer - Cambridge Danehy Park Today 10/21 · 8PM - 9PM $16/player Coed Skills (2) 7v7 3 spots",
+      "title": "Drop In Today Wednesday - Coed 7v7 Soccer - Cambridge Danehy Park Today 10/21 · 8PM - 9PM $16/player Coed Skills (2) 7v7 2 spots",
       "day": "Wednesday",
       "time": "8:00pm",
       "location": "Cambridge Danehy Park",
       "url": "https://www.volosports.com/game/faefb039-c679-4560-8f0f-a24ad8a2fba0",
-      "spots": 3
+      "spots": 2
     },
     {
       "id": "5eed1a42d29d38e6fd8bbde5",
@@ -44,15 +53,6 @@
       "time": "8:00pm",
       "location": "Fenway Huntington Ave YMCA",
       "url": "https://www.volosports.com/game/fb01b1c7-4f34-4dc7-b7c3-61ef36ae98ea",
-      "spots": 1
-    },
-    {
-      "id": "e970c0928fa74a312bf8190f",
-      "title": "Drop In Today Wednesday - Basketball - Cambridge Shady Hill School Today 10/21 · 8:10PM - 9PM $16/player Women All Skills 5v5 1 spot",
-      "day": "Wednesday",
-      "time": "8:10pm",
-      "location": "Cambridge Shady Hill School",
-      "url": "https://www.volosports.com/game/fb98a585-4e80-4da1-863c-d346d62a20e6",
       "spots": 1
     }
   ],

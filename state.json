@@ -20,15 +20,6 @@
       "spots": 1
     },
     {
-      "id": "5047656d9c9833bde2d294d2",
-      "title": "Drop In Sunday Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth 10/25 · 10AM - 11AM $16/player Open All Skills 7v7 1 spot",
-      "day": "Sunday",
-      "time": "10:00am",
-      "location": "Wentworth",
-      "url": "https://www.volosports.com/game/33ad4e59-f294-4d48-b327-586c4113d44a",
-      "spots": 1
-    },
-    {
       "id": "0b89bf53ea29b1f241dd4975",
       "title": "Drop In Sunday Sunday - Beach Volleyball - South Boston Carson Beach 10/25 · 11AM - 12PM $11/player Coed Skills (2) 6v6 6 spots",
       "day": "Sunday",
@@ -53,24 +44,6 @@
       "time": "8:00pm",
       "location": "Charles/MGH Ebersol Field",
       "url": "https://www.volosports.com/game/9b1fcf8a-df8a-45eb-a421-721bb77c8d5e",
-      "spots": 2
-    },
-    {
-      "id": "e57c088a0deeba2a94e3c31c",
-      "title": "Drop In Today Thursday - Beach Volleyball - Somerville Club Volo at Assembly Row Today 10/22 · 6PM - 6:55PM $16/player Coed Social/Beginner 6v6 2 spots",
-      "day": "Thursday",
-      "time": "6:00pm",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/59a7f54d-ec73-4104-81a2-34e7461abef9",
-      "spots": 2
-    },
-    {
-      "id": "ac97aff2dc4a5ef15be83013",
-      "title": "Drop In Today Thursday - Beach Volleyball - Somerville Club Volo at Assembly Row Today 10/22 · 6PM - 6:55PM $16/player Coed Skills (2) 6v6 2 spots",
-      "day": "Thursday",
-      "time": "6:00pm",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/d1ecb72f-0235-4199-99ab-9148718a7fb4",
       "spots": 2
     }
   ],

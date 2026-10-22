@@ -38,6 +38,15 @@
       "spots": 6
     },
     {
+      "id": "646364904ed51fb1687c663a",
+      "title": "Drop In Sunday Sunday - Soccer - Boston - Charles/MGH Ebersol Field 10/25 · 7PM - 8PM $16/player Coed All Skills 7v7 2 spots",
+      "day": "Sunday",
+      "time": "7:00pm",
+      "location": "Charles/MGH Ebersol Field",
+      "url": "https://www.volosports.com/game/2da41183-9af4-45d0-bee3-555a1ae150d4",
+      "spots": 2
+    },
+    {
       "id": "898d7bfceb297b8b96f117a4",
       "title": "Drop In Sunday Sunday - Soccer - Boston - Charles/MGH Ebersol Field 10/25 · 8PM - 9PM $16/player Coed All Skills 7v7 2 spots",
       "day": "Sunday",
@@ -66,12 +75,12 @@
     },
     {
       "id": "8ef84cbf17f485f76d7c7ade",
-      "title": "Drop In Today Tuesday / Thursday - 8v8 Coed Soccer - Somerville Healey School Today 10/22 · 9PM - 10PM $16/player Coed All Skills 8v8 3 spots",
+      "title": "Drop In Today Tuesday / Thursday - 8v8 Coed Soccer - Somerville Healey School Today 10/22 · 9PM - 10PM $16/player Coed All Skills 8v8 4 spots",
       "day": "Tuesday",
       "time": "9:00pm",
       "location": "Somerville Healey School",
       "url": "https://www.volosports.com/game/294e9295-254f-4a2f-bbcf-6776d9abb89d",
-      "spots": 3
+      "spots": 4
     }
   ],
   "lastErrorDate": null,

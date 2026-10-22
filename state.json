@@ -48,12 +48,21 @@
     },
     {
       "id": "9c69b2d8344c7d23e33bced9",
-      "title": "Drop In Today Thursday - Basketball - Cambridge Shady Hill School Today 10/22 · 8:10PM - 9PM $16/player Coed All Skills 5v5 2 spots",
+      "title": "Drop In Today Thursday - Basketball - Cambridge Shady Hill School Today 10/22 · 8:10PM - 9PM $16/player Coed All Skills 5v5 3 spots",
       "day": "Thursday",
       "time": "8:10pm",
       "location": "Cambridge Shady Hill School",
       "url": "https://www.volosports.com/game/9fde9f4c-9ba2-4c4a-ac7c-266cb4e98903",
-      "spots": 2
+      "spots": 3
+    },
+    {
+      "id": "a14fa440bd7be92baef3cba2",
+      "title": "Drop In Today Wednesday, Thursday - Soccer - Somerville Conway Park Today 10/22 · 8:45PM - 9:45PM $16/player Coed All Skills 7v7 1 spot",
+      "day": "Wednesday",
+      "time": "8:45pm",
+      "location": "Somerville Conway Park",
+      "url": "https://www.volosports.com/game/febb276e-c803-483f-8cb0-120b152664f0",
+      "spots": 1
     }
   ],
   "lastErrorDate": null,

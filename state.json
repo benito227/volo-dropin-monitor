@@ -29,6 +29,15 @@
       "spots": 1
     },
     {
+      "id": "f877ef339154b094b33f64d2",
+      "title": "Drop In Today Saturday - Volleyball - Cambridge Cambridge Rindge & Latin School - War Memorial Recreational Center Today 10/24 · 1:30PM - 2:30PM $16/player Open Skills (3) 6v6 2 spots",
+      "day": "Saturday",
+      "time": "1:30pm",
+      "location": "War Memorial Recreational Center",
+      "url": "https://www.volosports.com/game/8d35bdc0-c77d-4186-9fa2-afc46872b5ff",
+      "spots": 2
+    },
+    {
       "id": "5047656d9c9833bde2d294d2",
       "title": "Drop In Tomorrow Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Tomorrow 10/25 · 10AM - 11AM $16/player Open All Skills 7v7 1 spot",
       "day": "Sunday",
@@ -48,12 +57,12 @@
     },
     {
       "id": "fcc80fac2fefe95a8e72aae5",
-      "title": "Drop In Tomorrow Sunday - Basketball - Cambridge Peabody Elementary School Tomorrow 10/25 · 12PM - 1PM $16/player Men All Skills 5v5 2 spots",
+      "title": "Drop In Tomorrow Sunday - Basketball - Cambridge Peabody Elementary School Tomorrow 10/25 · 12PM - 1PM $16/player Men All Skills 5v5 1 spot",
       "day": "Sunday",
       "time": "12:00pm",
       "location": "Cambridge Peabody Elementary School",
       "url": "https://www.volosports.com/game/ea7ebc5b-2af4-4c03-ad17-8c0bf72f83ed",
-      "spots": 2
+      "spots": 1
     }
   ],
   "lastErrorDate": null,

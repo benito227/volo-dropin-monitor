@@ -12,39 +12,12 @@
     },
     {
       "id": "0806d7195dcfd015a44d8b5b",
-      "title": "Drop In Today Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 10/25 · 1PM - 2PM $16/player Open All Skills 7v7 2 spots",
+      "title": "Drop In Today Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 10/25 · 1PM - 2PM $16/player Open All Skills 7v7 1 spot",
       "day": "Sunday",
       "time": "1:00pm",
       "location": "Wentworth",
       "url": "https://www.volosports.com/game/46f86ae4-7d8d-48b9-9495-be1c3168646c",
-      "spots": 2
-    },
-    {
-      "id": "a8f09e625b8d64a58ccb8ac3",
-      "title": "Drop In Today Sunday - Volleyball - Somerville Club Volo at Assembly Row Today 10/25 · 11AM - 12PM $16/player Coed Social/Beginner 6v6 2 spots",
-      "day": "Sunday",
-      "time": "11:00am",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/2f48e885-2438-4b92-a8fa-f6fe87d6c8e4",
-      "spots": 2
-    },
-    {
-      "id": "667fdf18f9407652516c720e",
-      "title": "Drop In Today Sunday - Volleyball - Somerville Club Volo at Assembly Row Today 10/25 · 11AM - 12PM $16/player Coed Social/Beginner 6v6 1 spot",
-      "day": "Sunday",
-      "time": "11:00am",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/63f92dfb-6958-42c8-99f7-e4af48a0775f",
       "spots": 1
-    },
-    {
-      "id": "0b89bf53ea29b1f241dd4975",
-      "title": "Drop In Today Sunday - Beach Volleyball - South Boston Carson Beach Today 10/25 · 11AM - 12PM $11/player Coed Skills (2) 6v6 2 spots",
-      "day": "Sunday",
-      "time": "11:00am",
-      "location": "South Boston Carson Beach",
-      "url": "https://www.volosports.com/game/c8716038-edd4-4ed9-9d1b-38f4013fb1b9",
-      "spots": 2
     },
     {
       "id": "fcc80fac2fefe95a8e72aae5",
@@ -54,6 +27,24 @@
       "location": "Cambridge Peabody Elementary School",
       "url": "https://www.volosports.com/game/ea7ebc5b-2af4-4c03-ad17-8c0bf72f83ed",
       "spots": 2
+    },
+    {
+      "id": "11565405ae71778be7ed65e6",
+      "title": "Drop In Sunday Sunday - Basketball - Cambridge Peabody Elementary School 11/1 · 12PM - 1PM $16/player Men All Skills 5v5 3 spots",
+      "day": "Sunday",
+      "time": "12:00pm",
+      "location": "Cambridge Peabody Elementary School",
+      "url": "https://www.volosports.com/game/58c6d7c0-99ab-48f8-93e7-156532f28062",
+      "spots": 3
+    },
+    {
+      "id": "566af1f07cefcc028cd7f619",
+      "title": "Drop In Today Sunday - Volleyball - Fenway Simmons University Today 10/25 · 3PM - 4PM $16/player Coed All Skills 6v6 3 spots",
+      "day": "Sunday",
+      "time": "3:00pm",
+      "location": "Fenway Simmons University",
+      "url": "https://www.volosports.com/game/4c1e413a-4d12-4071-a223-c3dcdb6da3f2",
+      "spots": 3
     },
     {
       "id": "355a5da9efcd19538d076ced",

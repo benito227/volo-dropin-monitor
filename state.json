@@ -20,15 +20,6 @@
       "spots": 3
     },
     {
-      "id": "bdf94f5271e9dad6924b91af",
-      "title": "Drop In Monday Monday - Beach Volleyball - Somerville Club Volo at Assembly Row 11/2 · 8:45PM - 9:40PM $16/player Coed Skills (2) 6v6 4 spots",
-      "day": "Monday",
-      "time": "8:45pm",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/b740d353-0017-4838-8308-1b1d6323bf0a",
-      "spots": 4
-    },
-    {
       "id": "d36bea6ccbf647e50a4cee2f",
       "title": "Drop In Sunday Sunday - Beach Volleyball - South Boston Carson Beach 11/1 · 11AM - 12PM $11/player Coed Skills (2) 6v6 3 spots",
       "day": "Sunday",
@@ -45,6 +36,24 @@
       "location": "Cambridge Peabody Elementary School",
       "url": "https://www.volosports.com/game/58c6d7c0-99ab-48f8-93e7-156532f28062",
       "spots": 3
+    },
+    {
+      "id": "0ef333bad527826548b23467",
+      "title": "Drop In Today Sunday - Soccer - Somerville Glen Park Today 10/25 · 6PM - 7PM $16/player Coed All Skills 8v8 5 spots",
+      "day": "Sunday",
+      "time": "6:00pm",
+      "location": "Somerville Glen Park",
+      "url": "https://www.volosports.com/game/d1801953-a990-455e-8ff7-9dcb4ae91923",
+      "spots": 5
+    },
+    {
+      "id": "76b3e2a3ce348c304b85d82f",
+      "title": "Drop In Thursday Thursday - Volleyball - Cambridge Cambridge Rindge & Latin School - War Memorial Recreational Center 10/29 · 7:15PM - 8:15PM $16/player Coed Skills (2) 6v6 2 spots",
+      "day": "Thursday",
+      "time": "7:15pm",
+      "location": "War Memorial Recreational Center",
+      "url": "https://www.volosports.com/game/0798a99a-094b-407b-b2ca-25582cf98fdf",
+      "spots": 2
     },
     {
       "id": "355a5da9efcd19538d076ced",

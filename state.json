@@ -20,15 +20,6 @@
       "spots": 3
     },
     {
-      "id": "bdf94f5271e9dad6924b91af",
-      "title": "Drop In Monday Monday - Beach Volleyball - Somerville Club Volo at Assembly Row 11/2 · 8:45PM - 9:40PM $16/player Coed Skills (2) 6v6 4 spots",
-      "day": "Monday",
-      "time": "8:45pm",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/b740d353-0017-4838-8308-1b1d6323bf0a",
-      "spots": 4
-    },
-    {
       "id": "d36bea6ccbf647e50a4cee2f",
       "title": "Drop In Sunday Sunday - Beach Volleyball - South Boston Carson Beach 11/1 · 11AM - 12PM $11/player Coed Skills (2) 6v6 6 spots",
       "day": "Sunday",
@@ -54,6 +45,15 @@
       "location": "Charlestown Charlestown YMCA",
       "url": "https://www.volosports.com/game/e5ecec5a-9a37-4f78-99a2-d79e222f87bd",
       "spots": 1
+    },
+    {
+      "id": "4154d56532a267374e7d3858",
+      "title": "Drop In Tuesday Grass Tuesday - Grass Volleyball - South Boston Moakley Park 10/27 · 8:30PM - 9:30PM $11/player Coed Social/Beginner 6v6 2 spots",
+      "day": "Tuesday",
+      "time": "8:30pm",
+      "location": "South Boston Moakley Park",
+      "url": "https://www.volosports.com/game/8baf23cb-a5a4-4789-b8e3-592cbb5a97fe",
+      "spots": 2
     }
   ],
   "lastErrorDate": null,

@@ -20,15 +20,6 @@
       "spots": 1
     },
     {
-      "id": "2d3b7dcb256a63b2edf1da0a",
-      "title": "Drop In Tomorrow Monday - Indoor Competitive Volleyball - Chinatown Wang YMCA Tomorrow 10/26 · 6:50PM - 7:45PM $16/player Coed Skills (2) 6v6 2 spots",
-      "day": "Monday",
-      "time": "6:50pm",
-      "location": "Chinatown Wang YMCA",
-      "url": "https://www.volosports.com/game/498d0acf-cab1-41b9-a702-e23d14a8e841",
-      "spots": 2
-    },
-    {
       "id": "570d0951c757fba1e08b63eb",
       "title": "Drop In Tomorrow Monday - Coed Flag Football - South Boston Moakley Park Tomorrow 10/26 · 8PM - 9PM $16/player Coed Social/Beginner 7v7 3 spots",
       "day": "Monday",
@@ -36,6 +27,15 @@
       "location": "South Boston Moakley Park",
       "url": "https://www.volosports.com/game/c7b14f46-11d6-4603-b624-f8a48d735842",
       "spots": 3
+    },
+    {
+      "id": "bdf94f5271e9dad6924b91af",
+      "title": "Drop In Monday Monday - Beach Volleyball - Somerville Club Volo at Assembly Row 11/2 · 8:45PM - 9:40PM $16/player Coed Skills (2) 6v6 4 spots",
+      "day": "Monday",
+      "time": "8:45pm",
+      "location": "Somerville Club Volo at Assembly Row",
+      "url": "https://www.volosports.com/game/b740d353-0017-4838-8308-1b1d6323bf0a",
+      "spots": 4
     },
     {
       "id": "d36bea6ccbf647e50a4cee2f",

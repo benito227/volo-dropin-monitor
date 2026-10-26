@@ -11,22 +11,13 @@
       "spots": 2
     },
     {
-      "id": "a0cfbe0d88f5dcbe5e941969",
-      "title": "Drop In Today Monday - Beach Volleyball - Somerville Club Volo at Assembly Row Today 10/26 · 6PM - 6:55PM $16/player Coed Skills (2) 6v6 1 spot",
-      "day": "Monday",
-      "time": "6:00pm",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/7a6dd4be-94fe-4b30-bf30-92704d24e07f",
-      "spots": 1
-    },
-    {
       "id": "80761f25ac6441ea1f97c87a",
-      "title": "Drop In Today Monday - Beach Volleyball - Somerville Club Volo at Assembly Row Today 10/26 · 7:50PM - 8:45PM $16/player Coed Skills (2) 6v6 2 spots",
+      "title": "Drop In Today Monday - Beach Volleyball - Somerville Club Volo at Assembly Row Today 10/26 · 7:50PM - 8:45PM $16/player Coed Skills (2) 6v6 1 spot",
       "day": "Monday",
       "time": "7:50pm",
       "location": "Somerville Club Volo at Assembly Row",
       "url": "https://www.volosports.com/game/83031552-5847-4e69-a0fb-ace23656b6d4",
-      "spots": 2
+      "spots": 1
     },
     {
       "id": "570d0951c757fba1e08b63eb",
@@ -36,6 +27,15 @@
       "location": "South Boston Moakley Park",
       "url": "https://www.volosports.com/game/c7b14f46-11d6-4603-b624-f8a48d735842",
       "spots": 3
+    },
+    {
+      "id": "bdf94f5271e9dad6924b91af",
+      "title": "Drop In Monday Monday - Beach Volleyball - Somerville Club Volo at Assembly Row 11/2 · 8:45PM - 9:40PM $16/player Coed Skills (2) 6v6 4 spots",
+      "day": "Monday",
+      "time": "8:45pm",
+      "location": "Somerville Club Volo at Assembly Row",
+      "url": "https://www.volosports.com/game/b740d353-0017-4838-8308-1b1d6323bf0a",
+      "spots": 4
     },
     {
       "id": "d36bea6ccbf647e50a4cee2f",

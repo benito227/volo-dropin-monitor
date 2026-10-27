@@ -2,15 +2,6 @@
   "initialized": true,
   "current": [
     {
-      "id": "146d57cd4eec9af4b8af3d1b",
-      "title": "Drop In Today Monday, Tuesday - Soccer - Somerville Conway Park Today 10/27 · 8:45PM - 9:45PM $16/player Coed All Skills 7v7 1 spot",
-      "day": "Monday",
-      "time": "8:45pm",
-      "location": "Somerville Conway Park",
-      "url": "https://www.volosports.com/game/8b1f9200-b147-46b7-9144-0863c98f39ef",
-      "spots": 1
-    },
-    {
       "id": "e626c0eaab7e32b0cfbb3f06",
       "title": "Drop In Sunday Sunday - Basketball - Cambridge Peabody Elementary School 11/1 · 10AM - 11AM $16/player Men All Skills 5v5 1 spot",
       "day": "Sunday",
@@ -35,6 +26,15 @@
       "time": "12:00pm",
       "location": "Cambridge Peabody Elementary School",
       "url": "https://www.volosports.com/game/58c6d7c0-99ab-48f8-93e7-156532f28062",
+      "spots": 2
+    },
+    {
+      "id": "adabfb18536c801b3defdd09",
+      "title": "Drop In Today Tuesday - Coed 5v5 Basketball - Charlestown Charlestown YMCA Today 10/27 · 6PM - 7PM $16/player Coed All Skills 5v5 2 spots",
+      "day": "Tuesday",
+      "time": "6:00pm",
+      "location": "Charlestown Charlestown YMCA",
+      "url": "https://www.volosports.com/game/ce7f7150-239f-4db5-9cf3-b96bf6caee84",
       "spots": 2
     },
     {

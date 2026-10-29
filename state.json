@@ -47,15 +47,6 @@
       "spots": 3
     },
     {
-      "id": "3b6ddad8be12ef4773dab8e9",
-      "title": "Drop In Sunday Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth 11/1 · 12PM - 1PM $16/player Open All Skills 7v7 1 spot",
-      "day": "Sunday",
-      "time": "12:00pm",
-      "location": "Wentworth",
-      "url": "https://www.volosports.com/game/453eecb9-2a08-467b-83a8-7f31a0b96359",
-      "spots": 1
-    },
-    {
       "id": "cd77515b2651ecac8bf01a58",
       "title": "Drop In Today Thursday - Beach Volleyball - Somerville Club Volo at Assembly Row Today 10/29 · 7:50PM - 8:45PM $16/player Coed Skills (2) 6v6 1 spot",
       "day": "Thursday",
@@ -81,6 +72,15 @@
       "location": "South Boston Moakley Park",
       "url": "https://www.volosports.com/game/5716f339-b1fb-4188-bc0b-dacdd5ae2c19",
       "spots": 4
+    },
+    {
+      "id": "d7662a40aa01133867282dee",
+      "title": "Drop In Tuesday Tuesday - Beach Volleyball - Somerville Club Volo at Assembly Row 11/3 · 6:55PM - 7:50PM $16/player Coed Skills (2) 6v6 1 spot",
+      "day": "Tuesday",
+      "time": "6:55pm",
+      "location": "Somerville Club Volo at Assembly Row",
+      "url": "https://www.volosports.com/game/294a8038-b4f0-4f83-b49b-902b9d261e3d",
+      "spots": 1
     }
   ],
   "lastErrorDate": null,

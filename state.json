@@ -57,12 +57,12 @@
     },
     {
       "id": "ab27d7d86bb55fb43b317bbf",
-      "title": "Drop In Today Thursday - Basketball - Cambridge Shady Hill School Today 10/29 · 9PM - 9:50PM $16/player Coed All Skills 5v5 5 spots",
+      "title": "Drop In Today Thursday - Basketball - Cambridge Shady Hill School Today 10/29 · 9PM - 9:50PM $16/player Coed All Skills 5v5 4 spots",
       "day": "Thursday",
       "time": "9:00pm",
       "location": "Cambridge Shady Hill School",
       "url": "https://www.volosports.com/game/1954db99-d5bc-46fb-be60-5a93acc8b232",
-      "spots": 5
+      "spots": 4
     },
     {
       "id": "f2bb80545cd80868dac2d878",
@@ -74,13 +74,13 @@
       "spots": 4
     },
     {
-      "id": "d7662a40aa01133867282dee",
-      "title": "Drop In Tuesday Tuesday - Beach Volleyball - Somerville Club Volo at Assembly Row 11/3 · 6:55PM - 7:50PM $16/player Coed Skills (2) 6v6 1 spot",
+      "id": "74ac7de1756ce8917df20219",
+      "title": "Drop In Today Tuesday / Thursday - 8v8 Coed Soccer - Somerville Healey School Today 10/29 · 8PM - 9PM $16/player Coed All Skills 8v8 3 spots",
       "day": "Tuesday",
-      "time": "6:55pm",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/294a8038-b4f0-4f83-b49b-902b9d261e3d",
-      "spots": 1
+      "time": "8:00pm",
+      "location": "Somerville Healey School",
+      "url": "https://www.volosports.com/game/f355bb6d-8d09-4d66-a534-42a0dbf3d0a0",
+      "spots": 3
     }
   ],
   "lastErrorDate": null,

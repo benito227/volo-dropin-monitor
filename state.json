@@ -11,6 +11,15 @@
       "spots": 1
     },
     {
+      "id": "bdf94f5271e9dad6924b91af",
+      "title": "Drop In Monday Monday - Beach Volleyball - Somerville Club Volo at Assembly Row 11/2 · 8:45PM - 9:40PM $16/player Coed Skills (2) 6v6 6 spots",
+      "day": "Monday",
+      "time": "8:45pm",
+      "location": "Somerville Club Volo at Assembly Row",
+      "url": "https://www.volosports.com/game/b740d353-0017-4838-8308-1b1d6323bf0a",
+      "spots": 6
+    },
+    {
       "id": "d36bea6ccbf647e50a4cee2f",
       "title": "Drop In Sunday Sunday - Beach Volleyball - South Boston Carson Beach 11/1 · 11AM - 12PM $11/player Coed Skills (2) 6v6 6 spots",
       "day": "Sunday",
@@ -45,15 +54,6 @@
       "location": "Cambridge Shady Hill School",
       "url": "https://www.volosports.com/game/1954db99-d5bc-46fb-be60-5a93acc8b232",
       "spots": 5
-    },
-    {
-      "id": "66a129686afa1b16b9d40ce7",
-      "title": "Drop In Today Wednesday, Thursday - Soccer - Somerville Conway Park Today 10/29 · 8:45PM - 9:45PM $16/player Coed All Skills 7v7 3 spots",
-      "day": "Wednesday",
-      "time": "8:45pm",
-      "location": "Somerville Conway Park",
-      "url": "https://www.volosports.com/game/82debbfd-53ea-4cbc-b534-07499db4a729",
-      "spots": 3
     }
   ],
   "lastErrorDate": null,

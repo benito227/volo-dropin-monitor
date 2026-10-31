@@ -2,15 +2,6 @@
   "initialized": true,
   "current": [
     {
-      "id": "c59763e398afcec4c8e1e48d",
-      "title": "Drop In Monday Monday - Coed Flag Football - South Boston Moakley Park 11/2 · 8PM - 9PM $16/player Coed Social/Beginner 7v7 1 spot",
-      "day": "Monday",
-      "time": "8:00pm",
-      "location": "South Boston Moakley Park",
-      "url": "https://www.volosports.com/game/d6e83e1d-0b68-4666-9d25-1aa59163d51c",
-      "spots": 1
-    },
-    {
       "id": "bdf94f5271e9dad6924b91af",
       "title": "Drop In Monday Monday - Beach Volleyball - Somerville Club Volo at Assembly Row 11/2 · 8:45PM - 9:40PM $16/player Coed Skills (2) 6v6 6 spots",
       "day": "Monday",
@@ -27,6 +18,15 @@
       "location": "Cambridge Peabody Elementary School",
       "url": "https://www.volosports.com/game/545db88b-6d11-4ac5-818b-cec7119075cf",
       "spots": 1
+    },
+    {
+      "id": "8b3a21bc3807617ce1987cf7",
+      "title": "Drop In Tomorrow Sunday - Flag Football - Boston - Fenway/Kenmore Sweeney Field - Wentworth Tomorrow 11/1 · 10AM - 11AM $16/player Coed All Skills 7v7 2 spots",
+      "day": "Sunday",
+      "time": "10:00am",
+      "location": "Wentworth",
+      "url": "https://www.volosports.com/game/392d812b-7939-427b-a0c3-465d24931051",
+      "spots": 2
     },
     {
       "id": "d36bea6ccbf647e50a4cee2f",

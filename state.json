@@ -2,6 +2,15 @@
   "initialized": true,
   "current": [
     {
+      "id": "e4b5a9a6a3df90a05b6a4a9e",
+      "title": "Drop In Today Monday - Coed Flag Football - South Boston Moakley Park Today 11/2 · 10PM - 11PM $16/player Coed Social/Beginner 7v7 2 spots",
+      "day": "Monday",
+      "time": "10:00pm",
+      "location": "South Boston Moakley Park",
+      "url": "https://www.volosports.com/game/1bcde716-3bb0-4960-9466-7e6578e78f1a",
+      "spots": 2
+    },
+    {
       "id": "11864286b38a443af6f32707",
       "title": "Drop In Monday Monday - Coed Flag Football - South Boston Moakley Park 11/9 · 10PM - 11PM $16/player Coed Social/Beginner 7v7 6 spots",
       "day": "Monday",
@@ -18,15 +27,6 @@
       "location": "South Boston Moakley Park",
       "url": "https://www.volosports.com/game/bf7dfac0-c73e-4dfb-93c8-75acbbd9c59c",
       "spots": 2
-    },
-    {
-      "id": "b36131ee6162534283768bd6",
-      "title": "Drop In Today Monday - Beach Volleyball - Somerville Club Volo at Assembly Row Today 11/2 · 6:55PM - 7:50PM $16/player Coed Skills (2) 6v6 1 spot",
-      "day": "Monday",
-      "time": "6:55pm",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/95d628e8-a6d3-483c-a41e-de09a67e67b6",
-      "spots": 1
     },
     {
       "id": "c59763e398afcec4c8e1e48d",

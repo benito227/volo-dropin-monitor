@@ -29,6 +29,24 @@
       "spots": 1
     },
     {
+      "id": "5d40ec77c9d4a26ab9900fc3",
+      "title": "Drop In Today Monday - Volleyball - Cambridge Cambridge Rindge & Latin School - War Memorial Recreational Center Today 11/2 · 8:15PM - 9:15PM $16/player Coed Skills (3) 6v6 2 spots",
+      "day": "Monday",
+      "time": "8:15pm",
+      "location": "War Memorial Recreational Center",
+      "url": "https://www.volosports.com/game/61b381f5-f0b6-403d-b92c-1b70c3951e47",
+      "spots": 2
+    },
+    {
+      "id": "6bfebbb8f46a421c5cd81b31",
+      "title": "Drop In Today Monday, Tuesday - Soccer - Somerville Conway Park Today 11/2 · 8:45PM - 9:45PM $16/player Coed All Skills 7v7 3 spots",
+      "day": "Monday",
+      "time": "8:45pm",
+      "location": "Somerville Conway Park",
+      "url": "https://www.volosports.com/game/4f53e1e4-abf2-4cff-860f-9cbb2a918edf",
+      "spots": 3
+    },
+    {
       "id": "9e80ad0833ce337458d67111",
       "title": "Drop In Monday Monday - Coed Flag Football - South Boston Moakley Park 11/9 · 9PM - 10PM $16/player Coed Social/Beginner 7v7 6 spots",
       "day": "Monday",
@@ -57,29 +75,11 @@
     },
     {
       "id": "f2bb80545cd80868dac2d878",
-      "title": "Drop In Tomorrow Grass Tuesday - Grass Volleyball - South Boston Moakley Park Tomorrow 11/3 · 6:30PM - 7:30PM $11/player Coed Social/Beginner 6v6 3 spots",
+      "title": "Drop In Tomorrow Grass Tuesday - Grass Volleyball - South Boston Moakley Park Tomorrow 11/3 · 6:30PM - 7:30PM $11/player Coed Social/Beginner 6v6 2 spots",
       "day": "Tuesday",
       "time": "6:30pm",
       "location": "South Boston Moakley Park",
       "url": "https://www.volosports.com/game/5716f339-b1fb-4188-bc0b-dacdd5ae2c19",
-      "spots": 3
-    },
-    {
-      "id": "e4217820bc5c6416f6ce2177",
-      "title": "Drop In Tomorrow Tuesday - Soccer - Boston - Charles/MGH Ebersol Field Tomorrow 11/3 · 7:30PM - 8:30PM $16/player Coed All Skills 7v7 1 spot",
-      "day": "Tuesday",
-      "time": "7:30pm",
-      "location": "Charles/MGH Ebersol Field",
-      "url": "https://www.volosports.com/game/5f446680-f1eb-4089-95be-7edc4e649fbe",
-      "spots": 1
-    },
-    {
-      "id": "553dc176d57ad675f0a5c4e1",
-      "title": "Drop In Tomorrow Tuesday - Soccer - Boston - Charles/MGH Ebersol Field Tomorrow 11/3 · 8:30PM - 9:30PM $16/player Coed All Skills 7v7 2 spots",
-      "day": "Tuesday",
-      "time": "8:30pm",
-      "location": "Charles/MGH Ebersol Field",
-      "url": "https://www.volosports.com/game/d26b5b89-ab08-4369-b086-5fc18df1d73b",
       "spots": 2
     }
   ],

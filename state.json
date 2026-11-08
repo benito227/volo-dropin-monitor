@@ -20,24 +20,6 @@
       "spots": 6
     },
     {
-      "id": "69f74487300229f3d82c4d77",
-      "title": "Drop In Today Sunday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 11/8 · 1PM - 2PM $16/player Open All Skills 7v7 1 spot",
-      "day": "Sunday",
-      "time": "1:00pm",
-      "location": "Wentworth",
-      "url": "https://www.volosports.com/game/0b1992cd-2c69-44a0-b1d1-3aff61282cf6",
-      "spots": 1
-    },
-    {
-      "id": "cdc59476a32f7d7924d5f2d7",
-      "title": "Drop In Today Sunday - Beach Volleyball - South Boston Carson Beach Today 11/8 · 11AM - 12PM $11/player Coed Skills (2) 6v6 6 spots",
-      "day": "Sunday",
-      "time": "11:00am",
-      "location": "South Boston Carson Beach",
-      "url": "https://www.volosports.com/game/41981401-182a-4b7b-9fc0-e340c47c84ef",
-      "spots": 6
-    },
-    {
       "id": "0b4fd72d8ff473b6d8821df5",
       "title": "Drop In Today Sunday - Soccer - Boston - Charles/MGH Ebersol Field Today 11/8 · 8PM - 9PM $16/player Coed All Skills 7v7 3 spots",
       "day": "Sunday",
@@ -45,6 +27,15 @@
       "location": "Charles/MGH Ebersol Field",
       "url": "https://www.volosports.com/game/e3dd631f-37bd-4b80-b51b-7cb802cb64af",
       "spots": 3
+    },
+    {
+      "id": "1ba50a41fd59fe528eb40f46",
+      "title": "Drop In Today Sunday - Soccer - Somerville Glen Park Today 11/8 · 8PM - 9PM $16/player Coed All Skills 8v8 2 spots",
+      "day": "Sunday",
+      "time": "8:00pm",
+      "location": "Somerville Glen Park",
+      "url": "https://www.volosports.com/game/3eaf5190-58e9-4f8f-9582-11bcb5238771",
+      "spots": 2
     }
   ],
   "lastErrorDate": null,

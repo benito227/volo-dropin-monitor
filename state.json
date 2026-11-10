@@ -3,21 +3,30 @@
   "current": [
     {
       "id": "dbacfeaba9470adc3f79fed1",
-      "title": "Drop In Today Tuesday - Basketball - Cambridge Shady Hill School Today 11/10 · 6:30PM - 7:20PM $16/player Men All Skills 5v5 2 spots",
+      "title": "Drop In Today Tuesday - Basketball - Cambridge Shady Hill School Today 11/10 · 6:30PM - 7:20PM $16/player Men All Skills 5v5 1 spot",
       "day": "Tuesday",
       "time": "6:30pm",
       "location": "Cambridge Shady Hill School",
       "url": "https://www.volosports.com/game/d747f7e1-c693-4482-a661-7681eed09bdb",
-      "spots": 2
+      "spots": 1
+    },
+    {
+      "id": "03dce547476dca4b2d2b50d6",
+      "title": "Drop In Today Tuesday - Basketball - Cambridge Tobin Montessori School Today 11/10 · 9PM - 10PM $16/player Women All Skills 5v5 1 spot",
+      "day": "Tuesday",
+      "time": "9:00pm",
+      "location": "Cambridge Tobin Montessori School",
+      "url": "https://www.volosports.com/game/8d6989bf-7806-4ca8-b261-905ebfc8e887",
+      "spots": 1
     },
     {
       "id": "c79844ae17667e6ce6f7a961",
-      "title": "Drop In Tomorrow Indoor Wednesday - Basketball - Fenway Huntington Ave YMCA Tomorrow 11/11 · 8PM - 9PM $16/player Coed All Skills 5v5 3 spots",
+      "title": "Drop In Tomorrow Indoor Wednesday - Basketball - Fenway Huntington Ave YMCA Tomorrow 11/11 · 8PM - 9PM $16/player Coed All Skills 5v5 2 spots",
       "day": "Wednesday",
       "time": "8:00pm",
       "location": "Fenway Huntington Ave YMCA",
       "url": "https://www.volosports.com/game/ff2f377a-2080-476a-9721-d596895f8855",
-      "spots": 3
+      "spots": 2
     }
   ],
   "lastErrorDate": null,

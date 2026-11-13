@@ -3,21 +3,21 @@
   "current": [
     {
       "id": "4b2ffbb2ec2a32b2e13e6944",
-      "title": "Drop In Sunday Indoor Sunday - Indoor Beach Volleyball - Natick Beach House 11/22 · 1PM - 2PM $16/player Coed Skills (2) 6v6 6 spots",
+      "title": "Drop In Sunday Indoor Sunday - Indoor Beach Volleyball - Natick Beach House 11/22 · 1PM - 2PM $16/player Coed Skills (2) 6v6 5 spots",
       "day": "Sunday",
       "time": "1:00pm",
       "location": "Natick Beach House",
       "url": "https://www.volosports.com/game/a81c0a97-45ca-4028-9ef3-9f3505f0a3ab",
-      "spots": 6
+      "spots": 5
     },
     {
       "id": "66167a3564f2425dd6fc399c",
-      "title": "Drop In Sunday Indoor Sunday - Indoor Beach Volleyball - Natick Beach House 12/6 · 1PM - 2PM $16/player Coed Skills (2) 6v6 6 spots",
+      "title": "Drop In Sunday Indoor Sunday - Indoor Beach Volleyball - Natick Beach House 12/6 · 1PM - 2PM $16/player Coed Skills (2) 6v6 5 spots",
       "day": "Sunday",
       "time": "1:00pm",
       "location": "Natick Beach House",
       "url": "https://www.volosports.com/game/7fe70181-44e9-43fa-bee7-bc2b96c9938a",
-      "spots": 6
+      "spots": 5
     },
     {
       "id": "03138e8e0ae209b568a3346d",
@@ -30,12 +30,12 @@
     },
     {
       "id": "c44ecb7ba2959ed27375808e",
-      "title": "Drop In Sunday Indoor Sunday - Indoor Beach Volleyball - Natick Beach House 11/15 · 12PM - 1PM $16/player Coed Skills (2) 6v6 6 spots",
+      "title": "Drop In Sunday Indoor Sunday - Indoor Beach Volleyball - Natick Beach House 11/15 · 12PM - 1PM $16/player Coed Skills (2) 6v6 5 spots",
       "day": "Sunday",
       "time": "12:00pm",
       "location": "Natick Beach House",
       "url": "https://www.volosports.com/game/2f6f3059-d0fc-47b3-877f-44d7d9a401a9",
-      "spots": 6
+      "spots": 5
     }
   ],
   "lastErrorDate": null,

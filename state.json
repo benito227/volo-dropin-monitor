@@ -1,16 +1,6 @@
 {
   "initialized": true,
-  "current": [
-    {
-      "id": "f413dea5e19e64ff1555ea02",
-      "title": "Drop In Today Sunday - Soccer - Boston - Charles/MGH Ebersol Field Today 11/15 · 7PM - 8PM $16/player Coed All Skills 7v7 1 spot",
-      "day": "Sunday",
-      "time": "7:00pm",
-      "location": "Charles/MGH Ebersol Field",
-      "url": "https://www.volosports.com/game/bb480846-a026-4dda-b4d1-4fefc11054f4",
-      "spots": 1
-    }
-  ],
+  "current": [],
   "lastErrorDate": null,
   "keepaliveMonth": "2026-11"
 }

@@ -38,6 +38,15 @@
       "spots": 4
     },
     {
+      "id": "c44ecb7ba2959ed27375808e",
+      "title": "Drop In Tomorrow Indoor Sunday - Indoor Beach Volleyball - Natick Beach House Tomorrow 11/15 · 12PM - 1PM $16/player Coed Skills (2) 6v6 2 spots",
+      "day": "Sunday",
+      "time": "12:00pm",
+      "location": "Natick Beach House",
+      "url": "https://www.volosports.com/game/2f6f3059-d0fc-47b3-877f-44d7d9a401a9",
+      "spots": 2
+    },
+    {
       "id": "3d32775c68a2bfcfb65fdb73",
       "title": "Drop In Sunday Indoor Sunday - Indoor Beach Volleyball - Natick Beach House 12/20 · 12PM - 1PM $16/player Coed Skills (2) 6v6 3 spots",
       "day": "Sunday",
@@ -45,15 +54,6 @@
       "location": "Natick Beach House",
       "url": "https://www.volosports.com/game/b5797b49-8121-4a9d-8b5b-f68d4eee558a",
       "spots": 3
-    },
-    {
-      "id": "0f16ad0395f0eb5d4d61fccb",
-      "title": "Drop In Tomorrow Indoor Sunday - Intermediate Indoor 6v6 Volleyball - Fenway Simmons University Tomorrow 11/15 · 2PM - 3PM $16/player Coed Intermediate 6v6 1 spot",
-      "day": "Sunday",
-      "time": "2:00pm",
-      "location": "Fenway Simmons University",
-      "url": "https://www.volosports.com/game/b618d356-0724-4db0-9573-f55a2ec70d8b",
-      "spots": 1
     }
   ],
   "lastErrorDate": null,

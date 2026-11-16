@@ -1,6 +1,16 @@
 {
   "initialized": true,
-  "current": [],
+  "current": [
+    {
+      "id": "96e4aecea84e860379049d7b",
+      "title": "Drop In Sunday Indoor Sunday - Volleyball - Cambridge MIT - MAC 11/22 · 6:40PM - 7:30PM $16/player Coed All Skills 6v6 1 spot",
+      "day": "Sunday",
+      "time": "6:40pm",
+      "location": "MAC",
+      "url": "https://www.volosports.com/game/dcf082b2-2c05-462f-ac68-b3e04183c73b",
+      "spots": 1
+    }
+  ],
   "lastErrorDate": null,
   "keepaliveMonth": "2026-11"
 }

@@ -1,16 +1,6 @@
 {
   "initialized": true,
-  "current": [
-    {
-      "id": "7374efdb165ca80dd1391a8a",
-      "title": "Drop In Tomorrow Wednesday - Men's Flag Football - Fenway Sweeney Field - Wentworth Tomorrow 11/18 · 7:30PM - 8:30PM $16/player Men All Skills 7v7 1 spot",
-      "day": "Wednesday",
-      "time": "7:30pm",
-      "location": "Wentworth",
-      "url": "https://www.volosports.com/game/e675d8aa-236f-4278-8848-42563ad5dc35",
-      "spots": 1
-    }
-  ],
+  "current": [],
   "lastErrorDate": null,
   "keepaliveMonth": "2026-11"
 }

@@ -1,25 +1,6 @@
 {
   "initialized": true,
-  "current": [
-    {
-      "id": "3cecb814ee70ecea1506e258",
-      "title": "Drop In Today Thursday - Beach Volleyball - Somerville Club Volo at Assembly Row Today 11/19 · 6:55PM - 7:50PM $16/player Coed Social/Beginner 6v6 1 spot",
-      "day": "Thursday",
-      "time": "6:55pm",
-      "location": "Somerville Club Volo at Assembly Row",
-      "url": "https://www.volosports.com/game/cf30bafc-f057-4aa3-9263-8af69fcc6467",
-      "spots": 1
-    },
-    {
-      "id": "995386b2e1714e6ce6605ad9",
-      "title": "Drop In Today Thursday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 11/19 · 9PM - 10PM $16/player Coed All Skills 7v7 2 spots",
-      "day": "Thursday",
-      "time": "9:00pm",
-      "location": "Wentworth",
-      "url": "https://www.volosports.com/game/521d2f53-104a-4a3e-98d1-e69b7ab0717e",
-      "spots": 2
-    }
-  ],
+  "current": [],
   "lastErrorDate": null,
   "keepaliveMonth": "2026-11"
 }

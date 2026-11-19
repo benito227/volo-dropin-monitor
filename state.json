@@ -1,6 +1,16 @@
 {
   "initialized": true,
-  "current": [],
+  "current": [
+    {
+      "id": "6ae2c6a3b5b71265c5c493c1",
+      "title": "Drop In Today Indoor Thursday - Indoor Beach 4v4 Volleyball - Natick Beach House Today 11/19 · 7:30PM - 8:30PM $16/player Coed Skills (2) 4v4 1 spot",
+      "day": "Thursday",
+      "time": "7:30pm",
+      "location": "Natick Beach House",
+      "url": "https://www.volosports.com/game/58f62b39-d9b1-409e-b11f-a71c0a716f1a",
+      "spots": 1
+    }
+  ],
   "lastErrorDate": null,
   "keepaliveMonth": "2026-11"
 }

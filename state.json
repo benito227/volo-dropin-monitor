@@ -1,6 +1,16 @@
 {
   "initialized": true,
-  "current": [],
+  "current": [
+    {
+      "id": "995386b2e1714e6ce6605ad9",
+      "title": "Drop In Today Thursday - Soccer - Boston - Fenway/Kenmore Sweeney Field - Wentworth Today 11/19 · 9PM - 10PM $16/player Coed All Skills 7v7 2 spots",
+      "day": "Thursday",
+      "time": "9:00pm",
+      "location": "Wentworth",
+      "url": "https://www.volosports.com/game/521d2f53-104a-4a3e-98d1-e69b7ab0717e",
+      "spots": 2
+    }
+  ],
   "lastErrorDate": null,
   "keepaliveMonth": "2026-11"
 }

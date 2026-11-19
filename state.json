@@ -1,16 +1,6 @@
 {
   "initialized": true,
-  "current": [
-    {
-      "id": "fc203a3b658cc3b822db3c92",
-      "title": "Drop In Today Thursday - Volleyball - Cambridge Cambridge Rindge & Latin School - War Memorial Recreational Center Today 11/19 · 7:15PM - 8:15PM $16/player Coed Skills (2) 6v6 1 spot",
-      "day": "Thursday",
-      "time": "7:15pm",
-      "location": "War Memorial Recreational Center",
-      "url": "https://www.volosports.com/game/ff79f8a9-3ba0-49cc-a604-ff20ebb2ea23",
-      "spots": 1
-    }
-  ],
+  "current": [],
   "lastErrorDate": null,
   "keepaliveMonth": "2026-11"
 }

@@ -1,6 +1,16 @@
 {
   "initialized": true,
-  "current": [],
+  "current": [
+    {
+      "id": "43ba8d4f026597afad274e09",
+      "title": "Drop In Monday Turf Monday - Soccer - Fenway Sweeney Field - Wentworth 11/23 · 6PM - 7PM $16/player Coed Skills (2) 7v7 3 spots",
+      "day": "Monday",
+      "time": "6:00pm",
+      "location": "Wentworth",
+      "url": "https://www.volosports.com/game/1bde3d9d-4391-497b-a99f-8924dc179ea7",
+      "spots": 3
+    }
+  ],
   "lastErrorDate": null,
   "keepaliveMonth": "2026-11"
 }

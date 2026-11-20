@@ -1,16 +1,6 @@
 {
   "initialized": true,
-  "current": [
-    {
-      "id": "48e98aa8b970ec3e92bf946d",
-      "title": "Drop In Sunday Indoor Sunday - Intermediate Indoor 6v6 Volleyball - Fenway Simmons University 11/22 · 1PM - 2PM $16/player Coed Intermediate 6v6 1 spot",
-      "day": "Sunday",
-      "time": "1:00pm",
-      "location": "Fenway Simmons University",
-      "url": "https://www.volosports.com/game/65f6cf5d-afe5-4450-a69c-665865e4e197",
-      "spots": 1
-    }
-  ],
+  "current": [],
   "lastErrorDate": null,
   "keepaliveMonth": "2026-11"
 }

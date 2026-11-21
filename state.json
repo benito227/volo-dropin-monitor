@@ -1,16 +1,6 @@
 {
   "initialized": true,
-  "current": [
-    {
-      "id": "5e49f2fc218bd5aaa42325fb",
-      "title": "Drop In Tomorrow Indoor Sunday - Walled Soccer - Cambridge MIT - MAC Tomorrow 11/22 · 8:20PM - 9:10PM $16/player Coed Intermediate 6v6 3 spots",
-      "day": "Sunday",
-      "time": "8:20pm",
-      "location": "MAC",
-      "url": "https://www.volosports.com/game/c726e50b-6344-403d-b9b4-da3a8ffd3c08",
-      "spots": 3
-    }
-  ],
+  "current": [],
   "lastErrorDate": null,
   "keepaliveMonth": "2026-11"
 }

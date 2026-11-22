@@ -1,6 +1,16 @@
 {
   "initialized": true,
-  "current": [],
+  "current": [
+    {
+      "id": "4b2ffbb2ec2a32b2e13e6944",
+      "title": "Drop In Today Indoor Sunday - Indoor Beach Volleyball - Natick Beach House Today 11/22 · 1PM - 2PM $16/player Coed Skills (2) 6v6 1 spot",
+      "day": "Sunday",
+      "time": "1:00pm",
+      "location": "Natick Beach House",
+      "url": "https://www.volosports.com/game/a81c0a97-45ca-4028-9ef3-9f3505f0a3ab",
+      "spots": 1
+    }
+  ],
   "lastErrorDate": null,
   "keepaliveMonth": "2026-11"
 }

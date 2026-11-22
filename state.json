@@ -1,6 +1,16 @@
 {
   "initialized": true,
-  "current": [],
+  "current": [
+    {
+      "id": "ca38cafa20ad543e8efc6fa0",
+      "title": "Drop In Tomorrow Indoor Monday - Basketball - Boston - Downtown Huntington Ave YMCA Tomorrow 11/23 · 10PM - 11PM $16/player Men All Skills 5v5 3 spots",
+      "day": "Monday",
+      "time": "10:00pm",
+      "location": "Downtown Huntington Ave YMCA",
+      "url": "https://www.volosports.com/game/c15ba111-e49c-491b-9f76-6a68304c390a",
+      "spots": 3
+    }
+  ],
   "lastErrorDate": null,
   "keepaliveMonth": "2026-11"
 }

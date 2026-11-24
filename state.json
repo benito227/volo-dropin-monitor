@@ -1,16 +1,6 @@
 {
   "initialized": true,
-  "current": [
-    {
-      "id": "08da6ecd0bde5ee818d0239a",
-      "title": "Drop In Today Tuesday - Basketball - Charlestown Charlestown YMCA Today 11/24 · 7PM - 8PM $16/player Coed All Skills 5v5 1 spot",
-      "day": "Tuesday",
-      "time": "7:00pm",
-      "location": "Charlestown Charlestown YMCA",
-      "url": "https://www.volosports.com/game/3d486ad1-8aaa-4b8e-a6ef-9f133eb6975e",
-      "spots": 1
-    }
-  ],
+  "current": [],
   "lastErrorDate": null,
   "keepaliveMonth": "2026-11"
 }

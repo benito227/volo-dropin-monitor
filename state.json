@@ -1,6 +1,16 @@
 {
   "initialized": true,
-  "current": [],
+  "current": [
+    {
+      "id": "91561dd0c88e01e159101c64",
+      "title": "Drop In Today Tuesday - Basketball - Cambridge Tobin Montessori School Today 11/24 · 9PM - 10PM $16/player Women All Skills 5v5 3 spots",
+      "day": "Tuesday",
+      "time": "9:00pm",
+      "location": "Cambridge Tobin Montessori School",
+      "url": "https://www.volosports.com/game/4bf883f1-189e-41b1-bf0d-f7dc60e3d623",
+      "spots": 3
+    }
+  ],
   "lastErrorDate": null,
   "keepaliveMonth": "2026-11"
 }
